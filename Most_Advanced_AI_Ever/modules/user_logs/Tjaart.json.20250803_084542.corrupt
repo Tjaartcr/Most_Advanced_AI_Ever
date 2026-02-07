@@ -1,0 +1,46 @@
+[
+  {
+    "timestamp": "2025-08-02T21:04:53.096374",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T21:04:53.096374",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T21:06:16.027197",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-03T08:37:17.819636",
+      "query": "tell me the time?",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-03T08:37:17.819636",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-03T08:37:17.819636",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-03T08:39:02.891145",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-03T08:45:42.149948",
+      "query": "tell me the time?",
+      "response": "At 2025-08-03 :  08:45:28 : I replied : \n \n I said the current date is Sunday the 3rd of August 2025 \n \n ",
+      "models": {}
+    },
+    "models": {}
+  }
+]

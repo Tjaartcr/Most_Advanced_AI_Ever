@@ -1,0 +1,46 @@
+[
+  {
+    "timestamp": "2025-08-02T20:21:41.714071",
+    "query": {
+      "username": "anonymous",
+      "timestamp": "2025-08-02T20:24:53.292811",
+      "query": "Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T20:24:53.292811",
+    "query": {
+      "username": "anonymous",
+      "timestamp": "2025-08-02T20:32:08.526927",
+      "query": "Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T20:32:08.526927",
+    "query": {
+      "username": "anonymous",
+      "timestamp": "2025-08-02T20:32:08.526927",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T20:32:08.526927",
+    "query": {
+      "username": "anonymous",
+      "timestamp": "2025-08-02T20:54:27.827103",
+      "query": "Turn on lights",
+      "response": "At 2025-08-02 :  20:54:20 : I replied : \n \n I said the current time is fifty four past eight and twenty seconds in the evening \n \n ",
+      "models": {}
+    },
+    "models": {}
+  }
+]

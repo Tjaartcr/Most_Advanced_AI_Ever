@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": "2025-08-01T14:40:29.284735",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-01T15:51:38.875527",
+      "query": "Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-01T15:51:38.875527",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-01T15:53:26.971271",
+      "query": "Turn on lights",
+      "response": "At 2025-08-01 :  15:53:20 : I replied : \n \n I am from Uitenhage, South Africa. \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-01T15:54:25.756548",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-01T16:55:43.580325",
+      "query": "what are you",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  }
+]

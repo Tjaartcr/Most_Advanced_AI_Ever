@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-08-16T20:19:31.587894",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-16T20:19:31.587894",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-16T20:19:31.587894",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-16T20:19:31.587894",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "[ERROR] Model generation failed: must provide a model",
+      "models": {}
+    },
+    "models": {}
+  }
+]

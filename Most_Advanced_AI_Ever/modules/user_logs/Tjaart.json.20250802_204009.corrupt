@@ -1,0 +1,79 @@
+[
+  {
+    "timestamp": "2025-08-02T17:44:10.693054",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T17:44:10.693054",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T17:45:43.970917",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T20:05:24.143039",
+      "query": "tell me the time",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T20:05:24.143039",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-02T20:05:24.143039",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T20:06:55.045517",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-02T20:07:08.560926",
+      "query": "tell me the time",
+      "response": "At 2025-08-02 :  20:07:02 : I replied : \n \n I said the current time is seven past eight and two seconds in the evening \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T20:17:27.469264",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T20:17:27.469264",
+      "query": "tell me the time",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T20:26:02.108650",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T20:26:02.108650",
+      "query": "tell me the time",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T20:33:19.819848",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T20:40:09.148582",
+      "query": "tell me the time",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  }
+]

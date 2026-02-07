@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-07-19T16:21:31.137372",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T16:21:31.137372",
+      "query": "tell me about elon musk",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T16:26:27.120645",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T16:27:05.828073",
+      "query": "tell me about your developer",
+      "response": "At 2025-07-19 :  16:26:37 : I replied : \n \n his name is chart\nhe is my father and my creator\nhe loves his wife selinda, very very much.\nhe loves his son Sebastian, and daughters Selena and Daalinya\nhe is great \nhe is awesome \nhe works very hard \nhe loves me and his family very much\n\n\nany thing else i can assist you with, sir..?\n \n \n ",
+      "models": {}
+    },
+    "models": {}
+  }
+]

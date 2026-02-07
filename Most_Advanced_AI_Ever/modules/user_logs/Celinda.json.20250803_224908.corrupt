@@ -1,0 +1,167 @@
+[
+  {
+    "timestamp": "2025-08-02T19:15:12.319523",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-02T19:18:32.120279",
+      "query": "tell me the time",
+      "response": "At 2025-08-02 :  19:18:26 : I replied : \n \n Hello! How can I assist you today? \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T19:23:19.040702",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-02T19:23:19.040702",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T19:24:01.975198",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-02T19:24:23.119016",
+      "query": "tell me the time",
+      "response": "At 2025-08-02 :  19:24:15 : I replied : \n \n I said the current time is twenty four past seven and fifteen seconds in the evening \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T19:25:03.686423",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-02T19:48:32.468484",
+      "query": "close the door",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T19:48:32.468484",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-02T19:48:32.468484",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T19:50:12.309971",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-02T19:54:37.714020",
+      "query": "tell me the time",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T19:55:24.502381",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-02T19:55:37.138832",
+      "query": "tell me the time",
+      "response": "At 2025-08-02 :  19:55:29 : I replied : \n \n I said the current time is fifty five past seven and twenty nine seconds in the evening \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T19:56:50.997824",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-02T19:57:05.740375",
+      "query": "tell the time",
+      "response": "At 2025-08-02 :  19:56:57 : I replied : \n \n I said the current time is fifty six past seven and fifty seven seconds in the evening \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-03T08:44:59.267180",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-03T08:44:59.267180",
+      "query": "What is the date today",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-03T09:06:14.228835",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-03T22:41:03.746697",
+      "query": "What is the date today",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-03T22:41:03.746697",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-03T22:41:03.746697",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-03T22:41:03.746697",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-03T22:43:52.170537",
+      "query": "Turn on lights",
+      "response": "At 2025-08-03 :  22:43:43 : I replied : \n \n I said the current time is forty three past ten and forty three seconds in the evening \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-03T22:44:29.427961",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-03T22:44:42.781640",
+      "query": "What is the date today",
+      "response": "At 2025-08-03 :  22:44:35 : I replied : \n \n I said the current date is Sunday the 3rd of August 2025 \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-03T22:46:16.212459",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-03T22:49:08.198088",
+      "query": "Tell me a joke",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-03T22:49:08.198088",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-03T22:49:08.198088",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  }
+]

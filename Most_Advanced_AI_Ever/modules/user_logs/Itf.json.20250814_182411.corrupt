@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2025-08-14T18:12:14.441360",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-14T18:18:11.996142",
+      "query": "Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-14T18:18:11.995147",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-14T18:24:11.041313",
+      "query": "Turn on lights",
+      "response": "System booted"
+    },
+    "models": {}
+  }
+]able 'collection' where it is not associated with a value"
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-14T18:24:11.039323",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-14T18:24:11.039323",
+      "query": "Turn on lights",
+      "response": "Embedding database not available.",
+      "models": {}
+    },
+    "models": {}
+  }
+]

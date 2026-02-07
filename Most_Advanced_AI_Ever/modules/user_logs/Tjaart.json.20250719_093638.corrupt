@@ -1,0 +1,134 @@
+[
+  {
+    "timestamp": "2025-07-19T01:07:37.164727",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T01:07:37.164727",
+      "query": "I want the time?",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T01:08:30.858972",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T01:08:30.858972",
+      "query": "the time",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T01:13:45.795251",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T01:13:45.795251",
+      "query": "walla the time?",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T01:25:43.137933",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T01:25:43.137933",
+      "query": "walla warra the time?",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T01:34:43.744341",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T01:34:43.744341",
+      "query": "wacka the time?",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T01:42:21.998226",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T01:42:21.998226",
+      "query": "what is the time?",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T02:34:23.013212",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T02:34:23.013212",
+      "query": "tell the time?",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T08:01:55.007255",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T08:01:55.007255",
+      "query": "what is the time?",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T08:33:35.257012",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T08:33:35.257012",
+      "query": "tell me the time please?",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T08:58:09.301527",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T08:58:09.301527",
+      "query": "who is  the time?",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T09:13:04.108672",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T09:27:39.884200",
+      "query": "the time is",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T09:28:35.322801",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T09:36:38.315326",
+      "query": "tell me the time?",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-08-03T22:15:19.877864",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-03T22:15:19.877864",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-03T22:16:26.451988",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-03T22:16:38.473737",
+      "query": "tell me the time",
+      "response": "At 2025-08-03 :  22:16:31 : I replied : \n \n I said the current time is sixteen past ten and thirty one seconds in the evening \n \n ",
+      "models": {}
+    },
+    "models": {}
+  }
+]

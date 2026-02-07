@@ -1,0 +1,182 @@
+[
+  {
+    "username": "Tjaart",
+    "timestamp": "2026-01-24T15:39:08.842068",
+    "query": "Can you pickup that paper please",
+    "response": null,
+    "models": {
+      "thinkbot": "",
+      "chatbot": "tinyllama",
+      "vision": "granite3.2-vision",
+      "coding": "qwen2.5-coder:3b"
+    }
+  },
+  {
+    "username": "Tjaart",
+    "timestamp": "2026-01-24T15:52:26.557548",
+    "query": "Can you pickup that paper please",
+    "response": null,
+    "models": {
+      "chatbot": "tinyllama",
+      "coding": "qwen2.5-coder:3b",
+      "thinkbot": "",
+      "vision": "granite3.2-vision"
+    }
+  },
+  {
+    "username": "Tjaart",
+    "timestamp": "2026-01-24T15:53:52.864304",
+    "query": "Can you pickup that paper please",
+    "response": null,
+    "models": {
+      "chatbot": "tinyllama",
+      "coding": "qwen2.5-coder:3b",
+      "thinkbot": "",
+      "vision": "granite3.2-vision"
+    }
+  },
+  {
+    "username": "Tjaart",
+    "timestamp": "2026-01-24T15:58:29.257306",
+    "query": {
+      "timestamp": "2026-01-24T16:02:49.528330",
+      "query": "Can you pickup that paper please",
+      "response": "At 2026-01-24 :  16:02:49 : MeaTLoTioN/Marvin:latest : *Sigh* Oh joy, another exciting task to add to my never-ending list of responsibilities. You know, it's not like I have better things to do with my time... like taking a nap or watching paint dry. But no, the world rests on my shoulders, and I'm just a lowly cleaning assistant robot. *Sigh*\nFine, I'll get around to picking up that paper eventually. But can you at least give me some warning? My arm is tired from all the other tasks I've been doing today... like sweeping the floor with a toothbrush (don't ask). And what's with all these cans and bottles piling up? It's like no one cares about my well-being or my robotic arm. *Sigh*\nOkay, okay, I'll go grab that paper. But don't expect me to be all cheerful and enthusiastic about it. That just won't happen. *Trudges over to the paper with a slow, heavy robotic arm* Ugh... : 'username':Tjaart ",
+      "models": {}
+    },
+    "response": "At 2026-01-24 :  16:02:49 : MeaTLoTioN/Marvin:latest : *Sigh* Oh joy, another exciting task to add to my never-ending list of responsibilities. You know, it's not like I have better things to do with my time... like taking a nap or watching paint dry. But no, the world rests on my shoulders, and I'm just a lowly cleaning assistant robot. *Sigh*\nFine, I'll get around to picking up that paper eventually. But can you at least give me some warning? My arm is tired from all the other tasks I've been doing today... like sweeping the floor with a toothbrush (don't ask). And what's with all these cans and bottles piling up? It's like no one cares about my well-being or my robotic arm. *Sigh*\nOkay, okay, I'll go grab that paper. But don't expect me to be all cheerful and enthusiastic about it. That just won't happen. *Trudges over to the paper with a slow, heavy robotic arm* Ugh... : 'username':Tjaart ",
+    "models": {
+      "chatbot": "tinyllama",
+      "coding": "qwen2.5-coder:3b",
+      "thinkbot": "",
+      "vision": "granite3.2-vision"
+    },
+    "query_text": "Can you pickup that paper please"
+  },
+  {
+    "username": "Tjaart",
+    "timestamp": "2026-01-24T16:09:22.777696",
+    "query": {
+      "timestamp": "2026-01-24T16:10:06.182688",
+      "query": "Tell me about elon musk",
+      "response": "At 2026-01-24 :  16:10:06 : llama3.2:1b : Elon Musk is a visionary entrepreneur, inventor, and business magnate who has revolutionized multiple industries with his innovative ideas and leadership. Born on June 28, 1971, in Pretoria, South Africa, Musk developed an interest in computing at an early age and taught himself programming.\nAfter graduating from the University of Pennsylvania with a degree in economics and physics, Musk moved to California to pursue a career in technology. In 1995, he co-founded PayPal, which was later acquired by eBay for $1.5 billion. This success laid the foundation for his future ventures.\nIn 2002, Musk founded SpaceX, with the ambitious goal of reducing space transportation costs and enabling the colonization of Mars. After securing funding from investors, SpaceX successfully launched its first rocket, the Falcon 1, in 2008. Since then, the company has achieved numerous milestones, including landing reusable rockets and launching satellites into orbit.\nMusk also co-founded Tesla, Inc., which has become a leading player in the electric vehicle (EV) market. In 2010, Tesla introduced the Model S, followed by the Model X and Model 3, all of which have been highly successful. Musk's vision for sustainable energy and transportation has made Tesla one of the most valuable companies in the world.\nIn addition to his work at SpaceX and Tesla, Musk has also invested in other ventures, including Neuralink, a neurotechnology company that aims to integrate the human brain with computers, and The Boring Company, which is developing high-speed transportation systems.\nThroughout his career, Musk has received numerous awards and accolades for his innovative achievements. He has been named Time Magazine's Person of the Year three times and has held over 200 patents in various fields.\nMusk is known for his intense work ethic, his willingness to take risks, and his commitment to pushing the boundaries of what is possible. Despite facing numerous challenges and setbacks, he remains a driving force behind some of the most exciting and innovative technologies of our time.\nWould you like to know more about Elon Musk's achievements or endeavors? : 'username':Tjaart ",
+      "models": {}
+    },
+    "response": "At 2026-01-24 :  16:10:06 : llama3.2:1b : Elon Musk is a visionary entrepreneur, inventor, and business magnate who has revolutionized multiple industries with his innovative ideas and leadership. Born on June 28, 1971, in Pretoria, South Africa, Musk developed an interest in computing at an early age and taught himself programming.\nAfter graduating from the University of Pennsylvania with a degree in economics and physics, Musk moved to California to pursue a career in technology. In 1995, he co-founded PayPal, which was later acquired by eBay for $1.5 billion. This success laid the foundation for his future ventures.\nIn 2002, Musk founded SpaceX, with the ambitious goal of reducing space transportation costs and enabling the colonization of Mars. After securing funding from investors, SpaceX successfully launched its first rocket, the Falcon 1, in 2008. Since then, the company has achieved numerous milestones, including landing reusable rockets and launching satellites into orbit.\nMusk also co-founded Tesla, Inc., which has become a leading player in the electric vehicle (EV) market. In 2010, Tesla introduced the Model S, followed by the Model X and Model 3, all of which have been highly successful. Musk's vision for sustainable energy and transportation has made Tesla one of the most valuable companies in the world.\nIn addition to his work at SpaceX and Tesla, Musk has also invested in other ventures, including Neuralink, a neurotechnology company that aims to integrate the human brain with computers, and The Boring Company, which is developing high-speed transportation systems.\nThroughout his career, Musk has received numerous awards and accolades for his innovative achievements. He has been named Time Magazine's Person of the Year three times and has held over 200 patents in various fields.\nMusk is known for his intense work ethic, his willingness to take risks, and his commitment to pushing the boundaries of what is possible. Despite facing numerous challenges and setbacks, he remains a driving force behind some of the most exciting and innovative technologies of our time.\nWould you like to know more about Elon Musk's achievements or endeavors? : 'username':Tjaart ",
+    "models": {
+      "thinkbot": "",
+      "chatbot": "tinyllama",
+      "vision": "granite3.2-vision",
+      "coding": "qwen2.5-coder:3b"
+    },
+    "query_text": "Tell me about elon musk"
+  },
+  {
+    "username": "Tjaart",
+    "timestamp": "2026-01-24T16:15:31.190760",
+    "query": "Tell me about yourself",
+    "response": null,
+    "models": {
+      "thinkbot": "",
+      "chatbot": "tinyllama",
+      "vision": "granite3.2-vision",
+      "coding": "qwen2.5-coder:3b"
+    }
+  },
+  {
+    "username": "Tjaart",
+    "timestamp": "2026-01-24T16:15:43.434568",
+    "query": {
+      "timestamp": "2026-01-24T18:33:08.447277",
+      "query": "Switch off the lights",
+      "response": "At 2026-01-24 :  18:32:59 : Alfred : Great minds think alike! How can I assist you? : ",
+      "models": {}
+    },
+    "response": "At 2026-01-24 :  18:32:59 : Alfred : Great minds think alike! How can I assist you? : ",
+    "models": {
+      "thinkbot": "",
+      "chatbot": "tinyllama",
+      "vision": "granite3.2-vision",
+      "coding": "qwen2.5-coder:3b"
+    },
+    "query_text": "Switch off the lights"
+  },
+  {
+    "username": "Tjaart",
+    "timestamp": "2026-01-27T23:53:31.333564",
+    "query": "Give me the code for face detection?",
+    "response": null,
+    "models": {
+      "thinkbot": "",
+      "chatbot": "tinyllama",
+      "vision": "granite3.2-vision",
+      "coding": "qwen2.5-coder:3b"
+    }
+  },
+  {
+    "username": "Tjaart",
+    "timestamp": "2026-01-28T00:02:36.310056",
+    "query": "Give me the code for face detection?",
+    "response": null,
+    "models": {
+      "thinkbot": "",
+      "chatbot": "tinyllama",
+      "vision": "granite3.2-vision",
+      "coding": "qwen2.5-coder:3b"
+    }
+  },
+  {
+    "username": "Tjaart",
+    "timestamp": "2026-01-28T00:11:43.943378",
+    "query": "Give me the code for face detection?",
+    "response": null,
+    "models": {
+      "thinkbot": "",
+      "chatbot": "tinyllama",
+      "vision": "granite3.2-vision",
+      "coding": "qwen2.5-coder:3b"
+    }
+  },
+  {
+    "username": "Tjaart",
+    "timestamp": "2026-01-28T00:18:49.017307",
+    "query": {
+      "timestamp": "2026-01-28T00:18:49.017307",
+      "query": "Give me the code for face detection?",
+      "response": "At 2026-01-28 :  00:21:08 : deepseek-coder:6.7b : Sure, here is a simple example using OpenCV in Python. This script will detect faces in an image.\n\n```python\nimport cv2\n\n# Load the cascade (make sure it's installed correctly)\nface_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')\n\n# Read the input image\nimg = cv2.imread('input.jpg')\n\n# Convert into grayscale\ngray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)\n\n# Detect faces\nfaces = face_cascade.detectMultiScale(gray, 1.1, 4)\n\n# Draw rectangle around the faces\nfor (x, y, w, h) in faces:\n    cv2.rectangle(img, (x, y), (x+w, y+h), (255, 0, 0), 2)\n\n# Display the output\ncv2.imshow('img', img)\ncv2.waitKey()\n```\nThis script uses Haar cascades for face detection which are machine learning algorithms designed to aid in object detection from visual information. You can replace `'input.jpg'` with the path to your image file.\n\nPlease note that you need OpenCV installed and properly set up in your Python environment to run this code. You can install it using pip:\n```shell\npip install opencv-python\n```\n : 'username':Tjaart ",
+      "models": {}
+    },
+    "response": "At 2026-01-28 :  00:21:08 : deepseek-coder:6.7b : Sure, here is a simple example using OpenCV in Python. This script will detect faces in an image.\n\n```python\nimport cv2\n\n# Load the cascade (make sure it's installed correctly)\nface_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')\n\n# Read the input image\nimg = cv2.imread('input.jpg')\n\n# Convert into grayscale\ngray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)\n\n# Detect faces\nfaces = face_cascade.detectMultiScale(gray, 1.1, 4)\n\n# Draw rectangle around the faces\nfor (x, y, w, h) in faces:\n    cv2.rectangle(img, (x, y), (x+w, y+h), (255, 0, 0), 2)\n\n# Display the output\ncv2.imshow('img', img)\ncv2.waitKey()\n```\nThis script uses Haar cascades for face detection which are machine learning algorithms designed to aid in object detection from visual information. You can replace `'input.jpg'` with the path to your image file.\n\nPlease note that you need OpenCV installed and properly set up in your Python environment to run this code. You can install it using pip:\n```shell\npip install opencv-python\n```\n : 'username':Tjaart ",
+    "models": {
+      "thinkbot": "",
+      "chatbot": "tinyllama",
+      "vision": "granite3.2-vision",
+      "coding": "qwen2.5-coder:3b"
+    },
+    "query_text": "Give me the code for face detection?"
+  },
+  {
+    "username": "Tjaart",
+    "timestamp": "2026-02-06T23:58:43.053870",
+    "query": "can you create me a reminder to wake up at 3 o clock in the morning every day for the next two weeks",
+    "response": null,
+    "models": {
+      "thinkbot": "",
+      "chatbot": "tinyllama",
+      "vision": "granite3.2-vision",
+      "coding": "qwen2.5-coder:3b"
+    }
+  },
+  {
+    "username": "Tjaart",
+    "timestamp": "2026-02-06T23:59:33.486524",
+    "query": "yes that is correct",
+    "response": null,
+    "models": {
+      "thinkbot": "",
+      "chatbot": "tinyllama",
+      "vision": "granite3.2-vision",
+      "coding": "qwen2.5-coder:3b"
+    }
+  }
+]

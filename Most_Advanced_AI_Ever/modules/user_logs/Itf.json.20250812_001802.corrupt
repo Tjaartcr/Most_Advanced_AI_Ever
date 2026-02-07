@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-08-11T23:58:18.638449",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-12T00:18:02.775357",
+      "query": "Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-12T00:18:02.775927",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-12T00:18:02.775927",
+      "query": "Turn on lights",
+      "response": "Embedding database not available.",
+      "models": {}
+    },
+    "models": {}
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "username": "tjaartcronje@gmail.com",
+    "timestamp": "2026-01-24T10:56:38.623093",
+    "query": "Can you go and pick up that Piper please?",
+    "response": null,
+    "models": {
+      "thinkbot": "",
+      "chatbot": "tinyllama",
+      "vision": "granite3.2-vision",
+      "coding": "qwen2.5-coder:3b"
+    }
+  },
+  {
+    "username": "tjaartcronje@gmail.com",
+    "timestamp": "2026-01-24T10:58:06.408327",
+    "query": "Can you go and pick up that Paper please?",
+    "response": null,
+    "models": {
+      "chatbot": "tinyllama",
+      "coding": "qwen2.5-coder:3b",
+      "thinkbot": "",
+      "vision": "granite3.2-vision"
+    }
+  },
+  {
+    "username": "tjaartcronje@gmail.com",
+    "timestamp": "2026-01-24T11:28:16.442572",
+    "query": "Can you go and pick up that paper please?",
+    "response": null,
+    "models": {
+      "thinkbot": "",
+      "chatbot": "tinyllama",
+      "vision": "granite3.2-vision",
+      "coding": "qwen2.5-coder:3b"
+    }
+  }
+]

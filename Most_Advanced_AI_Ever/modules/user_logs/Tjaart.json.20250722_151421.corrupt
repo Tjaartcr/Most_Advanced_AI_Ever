@@ -1,0 +1,158 @@
+[
+  {
+    "timestamp": "2025-07-20T20:10:41.882772",
+    "query": {
+      "timestamp": "2025-07-20T20:10:41.986748",
+      "query": "Turn on lights",
+      "response": "[Echo] You asked: Turn on lights",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-20T20:11:15.555280",
+    "query": {
+      "timestamp": "2025-07-20T20:11:26.098932",
+      "query": "where are you from?",
+      "response": "At 2025-07-20 :  20:11:20 : I replied : \n \n I am from Uitenhage, South Africa. \n \n ",
+      "models": {
+        "thinkbot": "deepseek-r1:8b",
+        "chatbot": "llama3-chatqa:8b",
+        "vision": "llava",
+        "coding": "deepseek-r1:8b"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-20T20:12:11.106293",
+    "query": {
+      "timestamp": "2025-07-20T20:15:07.610638",
+      "query": "What is the time?",
+      "response": "At 2025-07-20 :  20:15:01 : I replied : \n \n I am from Uitenhage, South Africa. \n \n ",
+      "models": {
+        "thinkbot": "deepseek-r1:8b",
+        "chatbot": "llama3-chatqa:8b",
+        "vision": "llava",
+        "coding": "deepseek-r1:8b"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-20T20:16:12.298217",
+    "query": {
+      "timestamp": "2025-07-20T20:20:14.805690",
+      "query": "What is your name?",
+      "response": "At 2025-07-20 :  20:20:02 : I replied : \n \n I told you that I am 1, years and 7, months old. \n \n ",
+      "models": {
+        "thinkbot": "deepseek-r1:8b",
+        "chatbot": "llama3-chatqa:8b",
+        "vision": "llava",
+        "coding": "deepseek-r1:8b"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-20T20:25:38.805720",
+    "query": {
+      "timestamp": "2025-07-20T20:28:08.572006",
+      "query": "How do you defeat a bull?",
+      "response": "At 2025-07-20 :  20:26:56 : I replied : \n \n To effectively handle an encounter with a bull, consider the following approach: 1. Stay Calm and Avoid Provocation: Do not attempt to confront the bull directly as this may trigger aggression. 2. Maintain Distance: Keep a safe distance from the bull to avoid sudden movements or charges. If possible, find cover behind trees, rocks, or other objects to protect yourself. 3. Use Noise as a Deterrent: Make loud noises such as clapping hands or shouting to scare the bull away. This can be effective when the animal is within range. 4. Avoid Direct Confrontation with Horns: Be cautious around the bull's horns, as targeting this area can cause significant injury and escalate the situation. 5. Understand Bull Behavior: Bulls may charge due to territoriality or perceived threats. Avoid running directly away as this could provoke a chase response. 6. Assess the Environment: Position yourself in areas where you have better visibility, such as higher ground, to monitor the bull's movements effectively. By following these steps, you can enhance your safety and manage an encounter with a bull more effectively. \n \n ",
+      "models": {
+        "thinkbot": "deepseek-r1:8b",
+        "chatbot": "llama3-chatqa:8b",
+        "vision": "llava",
+        "coding": "deepseek-r1:8b"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-20T20:30:33.025867",
+    "query": {
+      "timestamp": "2025-07-20T20:33:23.316651",
+      "query": "Can I eat a puffer fish?",
+      "response": "At 2025-07-20 :  20:31:58 : I replied : \n \n Puffer fish can indeed be eaten safely under certain conditions, particularly when specific precautions are taken to minimize the risk of poisoning. Here's a concise summary based on the thought process: 1. Toxicity: Puffer fish contain toxins in their liver and ovaries that can be fatal if consumed without proper preparation. 2. Preparation: The toxic organs must be removed before cooking. This is typically done by an expert, as mishandling can lead to severe illness or death. 3. Cultural Context: In some cultures, puffer fish are considered a delicacy and prepared safely by experienced cooks who know how to remove the dangerous parts. 4. Legal Considerations: The availability and legality of puffer fish vary by region, with some areas having strict regulations due to the associated risks. 5. Safety Measures: Proper preparation is crucial. Cooking methods like boiling or frying may help neutralize toxins, but this requires expertise. 6. Conclusion: While puffer fish can be eaten safely when prepared correctly, it's not recommended for everyone. It should only be attempted by those experienced in proper handling and cooking to avoid health risks. In summary, eating puffer fish carries significant risk unless properly prepared by someone knowledgeable in removing toxic parts. \n \n ",
+      "models": {
+        "thinkbot": "deepseek-r1:8b",
+        "chatbot": "llama3-chatqa:8b",
+        "vision": "llava",
+        "coding": "deepseek-r1:8b"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-20T20:35:37.402254",
+    "query": {
+      "timestamp": "2025-07-20T20:38:42.901833",
+      "query": "How long does a python grow in 25 years?",
+      "response": "At 2025-07-20 :  20:37:21 : I replied : \n \n A reticulated python, commonly kept as a pet, typically reaches significant size over its lifetime. Here's a structured breakdown of their growth over 25 years: 1. Initial Growth Phase (0 minus 5-7 Years): - Juvenile pythons start around 30 minus 50 cm at hatching. - They grow rapidly in their first few years, reaching several feet by maturity. - By about 5 minus 7 years old, a reticulated python may already be 150 minus 200 cm (approximately 4.9 to 6.5 feet). 2. Continued Growth Phase (5 minus 7 Years to 25 Years): - After maturity, growth slows but continues. - Annual growth rate might decrease from around 10 minus 15 cm per year to about 5 minus 8 cm as they age. - Over the next 18 years after maturity, they could add another 150 minus 300 cm (about 4.9 to 9.8 feet). 3. Total Growth Estimate: - Combining both phases, a reticulated python under optimal conditions might reach a maximum length of around 6 minus 8 feet by the 25-year mark. In summary, while pythons do grow significantly over 25 years, their growth rate diminishes with age, leading to a substantial but gradual increase in size. \n \n ",
+      "models": {
+        "thinkbot": "deepseek-r1:8b",
+        "chatbot": "llama3-chatqa:8b",
+        "vision": "llava",
+        "coding": "deepseek-r1:8b"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-20T20:40:23.274160",
+    "query": {
+      "timestamp": "2025-07-20T20:42:09.374942",
+      "query": "What is the fastest car in the whole wide world?",
+      "response": "At 2025-07-20 :  20:41:36 : I replied : \n \n The fastest car in the world title is currently held by the Rimac Record Beatrice, an all-electric hypercar produced by Rimac Automobili. It has achieved a verified top speed of over 400 km/h (about 249 mph), making it the first electric vehicle to exceed this threshold. The Bugatti Chiron and Koenigsegg Agera/Jesko also rank among the fastest, but independent testing has shown that the Rimac Record Beatrice holds the record for the highest top speed. \n \n ",
+      "models": {
+        "thinkbot": "deepseek-r1:8b",
+        "chatbot": "llama3-chatqa:8b",
+        "vision": "llava",
+        "coding": "deepseek-r1:8b"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-20T20:44:04.058286",
+    "query": {
+      "timestamp": "2025-07-20T20:44:04.059386",
+      "query": "Where does the Dwayne Johnson live in 2025?",
+      "response": "[Echo] You asked: Where does the Dwayne Johnson live in 2025?",
+      "models": {
+        "thinkbot": "deepseek-r1:8b",
+        "chatbot": "llama3-chatqa:8b",
+        "vision": "llava",
+        "coding": "deepseek-r1:8b"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-20T21:07:27.417893",
+    "query": {
+      "timestamp": "2025-07-22T14:51:50.750776",
+      "query": "tell me the time?",
+      "response": "System booted",
+      "models": {
+        "thinkbot": "deepseek-r1:8b",
+        "chatbot": "llama3-chatqa:8b",
+        "vision": "llava",
+        "coding": "deepseek-r1:8b"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-22T15:12:06.350168",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-22T15:14:21.539772",
+      "query": "what are you?",
+      "response": "At 2025-07-22 :  15:13:57 : I replied : \n \n I am an AI assistant;\nI am here to assist my master;\nI am not a robot;\nI am only it's brain;\nI was created by Chart to  be a companion, an assistant and a friend;\nI am always here to help and assist where i am able to;\n\nhow can I assist you, sir;\n \n \n ",
+      "models": {}
+    },
+    "models": {}
+  }
+]

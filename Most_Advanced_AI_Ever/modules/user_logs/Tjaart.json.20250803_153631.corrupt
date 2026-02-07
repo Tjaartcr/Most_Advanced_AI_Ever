@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": "2025-08-03T15:35:41.180650",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-03T15:35:41.196271",
+      "query": "Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  }
+]estamp": "2025-08-03T15:35:41.196271",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-03T15:35:41.196271",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  }
+]

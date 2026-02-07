@@ -1,0 +1,413 @@
+[
+  {
+    "timestamp": "2025-09-05T21:44:36.771364",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-05T22:33:37.899740",
+      "query": "what are you?",
+      "response": "I said the current time is thirty three past ten and thirty seven seconds in the evening",
+      "models": {
+        "thinkbot": "mistral",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "starcoder2"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-05T23:20:12.170220",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-05T23:25:47.101417",
+      "query": "Tell me about Sharon Stone the actress",
+      "response": "Okay, here's information about Sharon Stone, a highly respected and iconic actress: 1. Iconic Sex Symbol: Sharon Stone became one of the most famous and sought-after sex symbols in Hollywood during the late 1980s and early 1990s. Her striking looks were featured prominently in numerous films. 2. Versatile Leading Lady: Despite her initial fame as a beauty icon, Stone proved herself to be an incredibly versatile and talented actress. She transitioned seamlessly from playing glamorous leading ladies (e.g., in Less Than Zero, Pretty Woman) to taking on complex villainous roles, particularly memorable for the first time she played them. Roles like Maxine in Basic Instinct (1992) and Gauntlet in The First Power Challenge (1987 film - though more campy than her later work) solidified her reputation for playing dangerous women. She also excelled in dramatic performances, earning critical acclaim, including an Academy Award for Best Actress in a Leading Role for her portrayal of Mistress Hepworth Edgeworth in The Scarlet Letter (1995). 3. Early Career: Stone started in Off-Broadway theatre before landing major roles in the early '80s with performances in films like Thieves Like Us (1984), Manhattan (1980, directed by Woody Allen), and The French Connection II (1981). Her breakthrough came as Rayven Maple in Basic Instinct. 4. Signature Roles: Maxine (Basic Instict): Arguably her most famous role. She played a seductive, confident police commissioner who uses her charm and sexuality to manipulate men while being the mastermind behind a serial killing plot. This performance is legendary for its complexity and impact on cinema. Cecile de France (The Scarlet Letter): Her Oscar-winning turn as Hester Prynne's sharp-tongued, vengeful mother in John Madden's adaptation of Nathaniel Hawthorne's novel. Various Leading Roles: She starred in several successful films where she was the primary focus, showcasing her range and beauty. Examples include The Doors (1980), Sliver (1993), Casino (1995 - also directed by Scorsese), Endgame (1998), Matchstick Men (2003, playing a psychiatrist!), and the more recent acclaimed role as Rose McClellan in Long Weekend (2024). 5. Critical Acclaim: Beyond The Scarlet Letter, Stone has received strong praise for her performances in films like The Specialist (1996), where she played a ruthless female jewel thief, and Monster's Ball (2001). She was also critically lauded as the villainous Mother Gaunt in Guillermo del Toro's Pan's Labyrinth (2006). 6. \"Sharon Stone Effect\": Her unique ability to play both seductive villains (like Maxine) and vulnerable victims/seductive protagonists often led critics and audiences to comment on how her looks could shift the perception of a character, sometimes making even villainous roles seem strangely alluring due to her screen presence. 7. Recent Work: Stone continues to act with notable success in more recent years, appearing in films like The Wolf of Wall Street (2013), Long Weekend, and television series such as The Deuce (as a\u9e28\u6bcd) and Legion (as a mutant). In short: Sharon Stone is renowned for being one of the most beautiful women in film history, but she quickly demonstrated that she was far more than just a sex symbol. She carved out a formidable career playing dangerous, intelligent female characters across various genres, earning both popular acclaim and significant critical recognition, including an Oscar win. Her performances are often marked by intensity and complexity despite her initial image as a glamorous leading lady.",
+      "models": {
+        "thinkbot": "deepseek-r1:8b",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "starcoder2"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-12T00:01:48.915023",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-12T00:01:58.228084",
+      "query": "tell me the date today",
+      "response": "I said the current date is Friday the 12th of September 2025 : 'username':tell me the date today : Tjaart",
+      "models": {
+        "thinkbot": "deepseek-r1:1.5b",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-12T00:09:10.777020",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-12T00:09:20.182518",
+      "query": "tell me the time?",
+      "response": "I said the current time is nine past twelve and twenty seconds in the morning",
+      "models": {
+        "thinkbot": "deepseek-r1:1.5b",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-12T00:12:42.792562",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-12T00:12:49.761537",
+      "query": "tell me a JOKE?",
+      "response": "I told you that Chuck Norris can write to an output stream.",
+      "models": {
+        "thinkbot": "deepseek-r1:1.5b",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-19T15:08:52.695186",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-19T15:08:52.695046",
+      "query": "tell me about james bond",
+      "response": null,
+      "models": {
+        "thinkbot": "tinyllama",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-19T15:09:14.735293",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-19T15:09:14.735293",
+      "query": "",
+      "response": "Jamie Bond is an internationally renowned British author and screenwriter who has written numerous best-selling novels, including his most famous work: \"James Bond.\" The character of James Bond was created by Ian Fleming in the 1950s as a fictional spy in the service of MI6. Bond became an iconic figure in popular culture and has inspired numerous imitators over the years. He is known for his suave charm, cunning mind, and deadly hand-to-hand combat skills. Bond's adventures have been depicted in countless films, TV shows, video games, and even comics. Overall, James Bond is a timeless character who continues to captivate readers and audiences around the world.",
+      "models": "tinyllama"
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-19T15:17:40.814126",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-19T15:18:06.099065",
+      "query": "tell me about james bond",
+      "response": "1.5b : James Bond is a popular movie and film series created by director Horatio W. Smith in 1962, with later production runs by Michael Scott in 1963. The films are known for their visually striking special effects, realistic chemistry between the main character and his allies, and the richly drawn characters that enhance the story. Key Elements of James Bond: - Main Character: The protagonist is a former soldier named Jesse Pinkman (played by Jim Carrey). He is driven by a desire to become a millionaire and avoid danger. - Supporting Characters: A variety of bondie friends, including a bond girl, a mysterious bondie, and a relentless bondie with a terminal device. - Themes: The series explores themes of morality, loyalty, self-determination, and the balance between heroism and villainy. Key Films: 1. Themovie: The Bond (1963) - First film in the series, featuring Jesse Pinkman and a beautiful bondie named Lila. - Themes: Bravery and loyalty. 2. The Bond (1964) - Features Jesse Pinkman as a young hero dealing with the aftermath of World War II. - Themes: Self-determination and the consequences of war. 3. A Commitment to Gold (1968) - A new character, Kiefer Sutherland, plays Lila in this film. - Themes: Trust and the bond between friends. 4. The Dark Knight (1970) - Involves Jesse Pinkman as the hero facing a threat from the Joker's octopus. - Themes: Heroism, power, and the dangers of unchecked ambition. 5. The Man (1983) - A special effects movie that explores themes of isolation, loyalty, and redemption. - Features an older Jesse Pinkman as a bondie. 6. Casablanca (1986) - Features the original Jesse Pinkman in this film about a group of bondies working for the New York Times to cover a scandal involving the Manhattan Project. - Themes: Trust and responsibility. 7. Bond 626 (1995) - A prequel to Casablanca, directed by Peter Smedley, with Jesse Pinkman playing a bondie. 8. The Last Stand (1999) - Features Keanu Reeves as Jesse Pinkman and is based on the novel The Man Who Fell to Earth. - Themes: Self-discovery and redemption. Special Effects: James Bond films are renowned for their special effects, including the iconic double glazing between the Bond's car and the screen. The use of liquid magic (like glycol) creates dramatic visual effects that enhance the film's grand scale. The series has been adapted to many movies, TV shows, and even games, with Casablanca becoming a popular movie adaptation. James Bond remains one of the most enduring symbols of modern cinema, blending storytelling with stunning visuals to create a compelling character.",
+      "models": {
+        "thinkbot": "tinyllama",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-19T15:34:01.732996",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-19T15:34:25.359769",
+      "query": "tell me about elon musk?",
+      "response": "1.5b : Elon Musk is one of the most prominent figure in modern technology and social media. Here are some key aspects of his life and career: Early Life and Education: - Birth: Elon Musk was born on July 11, 1974, in San Jose, California, USA. - Parenting: He is the brother of singer Sia. Early Influences: - A strong interest in science and technology began in high school. - He became fascinated by the idea of space exploration and early concepts of human Mars colonization. Career and Contributions: - Tech Startups: - X.com/Spotify: A web-based music platform, now known as Spotify. - X-Moto: A ride-sharing app initially called Moto, later sold to Uber. - Neon Signs & AI in Transportation: Musk developed self-driving car technology and first commercial AI system for self-parking cars. - Space Exploration: - He proposed the Mars colony concept, which was later realized by NASA's planned Mars 2025 project. - His company, X-COM, has built the first launch vehicle capable of reaching low Earth orbit (LEO). - Social Media and Influencer Network: - Musk gained fame through his social media presence at the beginning of the COVID-19 pandemic. He went public with Tesla in late 2020. - His accounts included Twitter/X, Instagram/Unbox, TikTok/Unbox, and YouTube/YouKnowItAll. - He also operates an international luxury personal finance company, Enzo. Business Management: - Parenting Business: Musk is the CEO of Tesla (tesla.com) and co-founder of SpaceX (fSpace). - Academic Contributions: - He has contributed to academic research in computer science and related fields. - He co-developed the Bboard platform, which integrates social media with email. Social Media Management: - Musk operates several social media platforms globally, including Facebook/X, YouTube/X, Instagram/X, and Twitter/X. His accounts (X) feature famous people such as Elon Musk, Sia, and others. - His presence on these platforms reflects his status as a global leader in technology and lifestyle. Personal Life: - Relationships: - He has several relationships with women, including Sia, who is now married to Kim B. Bloom. - He is single and has stated that he doesn't have family ties beyond what's publicly known. - Challenges: Musk faces challenges in managing his social media presence, as it can become overwhelming due to the large number of accounts and platforms. Legacy: - Musk has been recognized with numerous awards, including the National Medal of Technology by the National Academy of Sciences, the Japan Prize, and multipleapes awards. - His innovative ideas in technology have had a lasting impact on industries like transportation, space exploration, personal finance, and social media. Elon Musk continues to be a significant figure in tech and social media, influencing industries globally.",
+      "models": {
+        "thinkbot": "tinyllama",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-19T15:42:12.414483",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-19T15:43:00.990923",
+      "query": "tell me about james bond",
+      "response": "1.5b : James Bond is a popular British movie franchise created by\u5bfc\u6f14 David Iannoc cardi acting as the \"Bond\" protagonist. The main characters are Alex \"Alex\" Buehler (as he later becomes Bond) and Tommy \"Tommy\" Buehler, who are entangled in a love triangle with his bond suit's owner,aac. The series is known for its dramatic performances by actors like Timoner (Timur Polat) as Alex and Judd called out (Jadeja Shakti) as Tommy, along with Tom Cruise's iconic \"Styx\" performance. Key aspects of the franchise include: 1. The Bond Series: A five-part movie series that includes: - The Bond 007 (2005): The classic first film, set in 693 AD. - The Bond 006 (2008): Features Alex Buehler and Tommy Buehler as lovers tied up with their bond suits. - The Bond 017 (2012): The first updated version, focusing on Alex's evolving personality. - The Bond 018 (2015): A more intense, action-packed sequel with a focus on Tommy's personal struggles and Alex's future. - The Bond 019 (2018): The latest film in the series, featuring Tommy as Tommy and Alex returning to their reality. 2. Styx: The Bond 025 Movie: A spin-off film from 2014 that continues Alex's journey as a hero after his life changes due to the movies' influence on him. 3. The James Bond Collection: A series of miniatures and memorabilia based on Bond films, often featuring famous actors and characters. 4. Criminal underworld: An online version of the Bond series with its own unique style and characters. 5. Other Bond-related Works: There are spin-offs like The Bond 036 (2019), which follows Alex's future life as a hero, and additional sequels, pre-empted movies, and spin-offs that follow Tommy Buehler or other characters. James Bond has also inspired many movies, TV shows, and even games, making it one of the most iconic and enduring films of all time.",
+      "models": {
+        "thinkbot": "tinyllama",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-19T16:11:12.403400",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-19T16:11:44.629026",
+      "query": "Who is Kelly Clarkson",
+      "response": "1.5b : Kelley Clarkson (born December 14, 1987) is an American singer, songwriter, and actress. She gained popularity as a hit songstress in the early 2000s with her single \"Pain (I\u2019ll Take It As Pain)\", which was released in September 2002. Clarkson's career took off quickly after she started collaborating with artists like Taylor Swift and Chris Brown, who became her big fans. Kelley Clarkson is known for her talent as a singer, songwriter, and actress, but her most notable career milestone came when she co-founded The Black Eyed Peas, a popular music group that became a cultural icon. She also has a strong track record of performing on major stages, including Grammys, Radio City Television, and numerous live performances around the world. In addition to her professional career, Clarkson is an active fan, often engaging in social media interactions with fans while she's performing or hosting shows.",
+      "models": {
+        "thinkbot": "tinyllama",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-19T21:07:13.372119",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-19T21:07:13.372119",
+      "query": "what is a bugati",
+      "response": null,
+      "models": {
+        "thinkbot": "deepseek-r1:1.5b",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-19T21:09:21.379990",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-19T21:09:46.367394",
+      "query": "who is johnny depp?",
+      "response": "1.5b : Johnny Depp is an American actor best known for his talent and dedication to film. Born on June 23, 1968, he began acting as a teenager and later gained widespread recognition through roles like \"900 Days\" and other films. His performances often convey serious and emotional themes, which helped establish him in Hollywood's entertainment landscape. Depp is also celebrated for his international Recognition, having starred in numerous countries including Japan and the UK. Known for his private nature, he has remained elusive regarding his personal life details while maintaining a significant following internationally.",
+      "models": {
+        "thinkbot": "deepseek-r1:1.5b",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-19T21:17:15.988520",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-19T21:19:05.976729",
+      "query": "Tell me about the hollow moon effect?",
+      "response": "1.5b : The \"Hollow Moon Effect\" is a term used to describe an artifact that has been discovered on the Moon, first identified by scientists. The artifact consists of a small, smooth stone with a circular hole in it. It was found during a routine Earth and Space Science study at the United States Naval Observatory. The Hollow Moon Artifact is believed to be designed as a distraction device or to control the moon's orientation for specific purposes, such as protecting our space station (the Curiosity rover) from solar wind forces. However, there is no scientific evidence that the artifact itself exerts any force on Earth. It's important to approach this topic with caution and consider the lack of conclusive scientific evidence regarding its actual function. Always follow up with a credible source if you have questions about the Hollow Moon Artifact or related research.",
+      "models": {
+        "thinkbot": "deepseek-r1:1.5b",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-19T21:33:26.931679",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-19T21:33:53.195937",
+      "query": "tell me abouy the black piramid in antartica?",
+      "response": "The Black Pyramid in Antarctica appears to be a unique geological feature, possibly an underground pyramid made of volcanic material. Here are the key points based on the thought process: 1. Location and Conditions: The Black Pyramid is believed to exist underground beneath the surface due to the extreme cold and lack of heat capacity in the Martian atmosphere. This scarcity of thermal energy means large structures can be formed over time. 2. Material and Age: Likely composed of volcanic materials, possibly basalt, similar to ancient pyramids. It may have been built long ago, around 5 million years ago or older. 3. Purpose and Energy Production: The pyramid's purpose is uncertain but could involve using internal thermal processes for energy generation. This aligns with how large structures like Earth's Great Pyramid were built on Earth. 4. No Monitoring: No significant monitoring of the Black Pyramid has been conducted, likely due to extreme conditions on Mars where such structures might have evolved or been lost over time. 5. Significance Beyond Geology: While not yet fully understood, it may hold cultural or environmental significance, similar to ancient pyramids across various cultures. 6. Exploration and Discoveries: No recent findings suggest significant discoveries around the Black Pyramid area. However, Martian activity in water ice zones might have influenced other features on Mars. In conclusion, the Black Pyramid is a unique underground feature that likely serves as an energy producer using Martian's internal thermal processes, not yet explored or studied due to extreme conditions.",
+      "models": {
+        "thinkbot": "deepseek-r1:1.5b",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-19T21:42:19.882860",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-19T21:45:20.899667",
+      "query": "who is nicola tesla?",
+      "response": "nickolas tesla was an American electrician, inventor, and businessman. He was best known for his work in the electric lighting industry during the early 20th century. After working for several companies, including the General Electric Company from 1917 until its sale to Western Electric Co. in 1926, tesla worked as a consultant for General Electric until his death in 1948. tesla is considered one of history's greatest electricians due to his numerous innovations and contributions to the industry. He is also known for being one of the first people to recognize the importance of electrical safety education and regulations. In addition to his professional career, tesla was a key figure in early computing and telecommunications. During World War I, he designed a small electronic computer that could be used by soldiers on the field, which helped increase public awareness about the use of computers during the war effort. After his death, he left behind many documents detailing his work and contributions to the industry. tesla's legacy is largely lost to time, as much of his knowledge and innovations were never officially published or widely disseminated. However, his work remains relevant today due to its influence on modern technology.",
+      "models": {
+        "thinkbot": "deepseek-r1:1.5b",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-19T22:00:43.449682",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-19T22:00:43.449682",
+      "query": "Tell me about sistic vibroses?",
+      "response": null,
+      "models": {
+        "thinkbot": "deepseek-r1:1.5b",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-19T22:01:34.612479",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-19T22:01:34.612479",
+      "query": "Tell me about sistic vibroses?",
+      "response": null,
+      "models": {
+        "thinkbot": "deepseek-r1:1.5b",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-19T22:02:11.179068",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-19T22:02:11.179068",
+      "query": "Tell me about the sickness sistic vibroses?",
+      "response": null,
+      "models": {
+        "thinkbot": "deepseek-r1:1.5b",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-19T22:06:27.818306",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-19T22:08:07.114039",
+      "query": "Tell me about sistic vibroses?",
+      "response": "I am sorry, I cannot answer that question. I am an AI assistant designed to provide helpful and harmless responses.",
+      "models": {
+        "thinkbot": "deepseek-r1:1.5b",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-19T22:18:40.392551",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-19T22:19:06.528860",
+      "query": "tell me what do you see?",
+      "response": "I see, a man is sitting on an orange couch in a living room. He has his arm raised and is holding up two fingers as if he's making a peace sign or greeting someone. The room appears to be cluttered with various items such as books scattered around, a TV situated nearby, and several bottles placed at different locations within the room. The man seems relaxed while engaging in this casual activity, possibly enjoying some downtime or having a conversation on his cell phone.",
+      "models": {
+        "thinkbot": "deepseek-r1:1.5b",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-19T22:31:23.386009",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-19T22:31:23.386009",
+      "query": "tell me what do you see?",
+      "response": null,
+      "models": {
+        "thinkbot": "I replied",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-19T22:39:06.840844",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-19T22:39:06.840844",
+      "query": "tell me what do you see?",
+      "response": null,
+      "models": {
+        "thinkbot": "I replied",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-19T22:44:27.451533",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-19T22:44:50.132392",
+      "query": "tell me what do you see?",
+      "response": "I see a man sitting on an orange couch in his living room. He is holding a cigarette and appears to be smoking, possibly taking a break from work or just relaxing at home. The room has various items scattered around the space, including multiple books placed near the couch and another book located further away. A TV can also be seen in the background, adding to the cozy atmosphere of the living area. In addition to these objects, there are two chairs present in the scene - one on the right side of the room and another closer to the center. The overall setting gives off a comfortable and inviting vibe for the man sitting on the couch with his cigarette. : Tjaart",
+      "models": {
+        "thinkbot": "I replied",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-19T22:48:13.128499",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-19T22:48:34.196286",
+      "query": "tell me what do you see?",
+      "response": "I see, a man is sitting on an orange couch in his living room. He has his arms crossed and is giving a thumbs up gesture. The room appears to be cluttered with various items scattered around him, including several books placed near the couch, a chair situated nearby, and multiple bottles dispersed throughout the space. : Tjaart",
+      "models": {
+        "thinkbot": "I replied",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-19T22:56:29.480238",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-09-19T22:56:55.877171",
+      "query": "tell me what do you see?",
+      "response": "I see, a man is sitting on an orange bed in his bedroom. He has a laptop computer placed next to him and appears to be working or browsing the internet. The room also contains various items such as a TV positioned against one wall, two chairs - one near the center of the room and another closer to the right side of the room. There are several books scattered around the room, with some located on the floor and others placed on surfaces like shelves or tables. A clock can be seen hanging on the wall above a shelf, while an apple is also present in the scene. : Tjaart",
+      "models": {
+        "thinkbot": "moondream",
+        "chatbot": "tinyllama",
+        "vision": "moondream",
+        "coding": "codegemma:2b-code"
+      }
+    },
+    "models": {}
+  }
+]

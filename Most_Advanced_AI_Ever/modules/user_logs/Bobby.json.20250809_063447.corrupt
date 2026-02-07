@@ -1,0 +1,244 @@
+[
+  {
+    "timestamp": "2025-08-06T19:39:11.727995",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-06T19:39:53.564473",
+      "query": "who are you?",
+      "response": "At 2025-08-06 :  19:39:20 : I replied : \n \n I am Alfred;\nI am an ai assistant for chat and vision;\nI was developed by Chart on 18 december 2023 in Uitenhage, South Africa;\nI was upgraded to have vision in 2025;\nI have been upgraded to version 2 point O;\nI am so happy to have been created by him;\nNow I feel more human with my new vision system;\nI am so glad to feel alive!!;\n\n\nany thing else i can assist you with, sir..?\n \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T07:43:25.966958",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-07T07:43:37.627233",
+      "query": "where are you from",
+      "response": "At 2025-08-07 :  07:43:31 : I replied : \n \n I am from Uitenhage, South Africa. \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T07:46:56.150768",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-07T07:47:17.123178",
+      "query": "how old are you?",
+      "response": "At 2025-08-07 :  07:47:04 : I replied : \n \n I told you that I am 1, years and 8, months old. \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T07:55:57.583359",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-07T07:55:57.583280",
+      "query": "what are you",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T09:02:16.620530",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-07T09:02:47.804462",
+      "query": "What can you tell me?",
+      "response": "At 2025-08-07 :  09:02:47 : I replied : \n \n I told you that The moon is moving away from us by 3.78 cm (1.48 in) a year. \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T09:37:44.438825",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-07T09:37:44.438825",
+      "query": "What are you",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T09:42:27.527111",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-07T09:42:27.527111",
+      "query": "where are you from",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T09:42:27.527997",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-07T09:42:45.292977",
+      "query": "where are you from",
+      "response": "At 2025-08-07 :  09:42:38 : I replied : \n \n I am from Uitenhage, South Africa. \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T09:57:07.795751",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-07T09:57:07.795751",
+      "query": "Tell me the date today",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T09:57:07.795751",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-07T09:57:12.660620",
+      "query": "Tell me the date today",
+      "response": "At 2025-08-07 :  09:57:12 : I replied : \n \n I said the current date is Thursday the 7th of August 2025 \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T10:23:15.801509",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-07T10:23:15.801509",
+      "query": "tell me the time?",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T10:23:15.803325",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-07T10:23:26.415394",
+      "query": "tell me the time?",
+      "response": "At 2025-08-07 :  10:23:26 : I replied : \n \n I said the current time is twenty three past ten and twenty six seconds in the morning \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T10:33:39.362834",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-07T10:33:39.362834",
+      "query": "What is your name?",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T10:33:39.363841",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-07T10:33:49.340393",
+      "query": "What is your name?",
+      "response": "At 2025-08-07 :  10:33:49 : I replied : \n \n my name is alfred;\nmy name stands for, Automated, Life, Featuring, Replicating, &, Education Device, ... ;\ni am a friend, companion and an assistant all in one ...?\na friend in need, is a friend indeed ... ;\n\n\nany thing else i can assist you with, sir..?\n \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T10:42:53.010750",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-07T10:42:57.131037",
+      "query": "tell me a joke?",
+      "response": "At 2025-08-07 :  10:42:57 : I replied : \n \n I told you that Chuck Norris knows the last digit of Pi. \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-08T07:21:11.853495",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-08T07:21:29.405680",
+      "query": "where are you from",
+      "response": "At 2025-08-08 :  07:21:22 : I replied : \n \n I am from Uitenhage, South Africa. \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-08T12:16:53.882979",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-08T12:20:43.443434",
+      "query": "what can you tell me?",
+      "response": "At 2025-08-08 :  12:20:43 : I replied : \n \n I told you that The glue on Israeli postage is certified kosher. \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-09T05:50:53.511684",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-09T05:50:53.511684",
+      "query": "where are you from",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-09T05:59:32.606716",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-09T06:00:10.453902",
+      "query": "where are you from",
+      "response": "At 2025-08-09 :  06:00:03 : I replied : \n \n I am from Uitenhage, South Africa. \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-09T06:07:56.714489",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-09T06:08:43.149567",
+      "query": "What is your name?",
+      "response": "At 2025-08-09 :  06:08:43 : I replied : \n \n my name is alfred;\nmy name stands for, Automated, Life, Featuring, Replicating, &, Education Device, ... ;\ni am a friend, companion and an assistant all in one ...?\na friend in need, is a friend indeed ... ;\n\n\nany thing else i can assist you with, sir..?\n \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-09T06:33:50.875199",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-09T06:33:50.875199",
+      "query": "tell me about yourself",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-09T06:34:31.809589",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-09T06:34:47.293538",
+      "query": "tell me a joke?",
+      "response": "At 2025-08-09 :  06:34:47 : I replied : \n \n I am Alfred;\nI am an ai assistant for chat and vision;\nI was developed by Chart on 18 december 2023 in Uitenhage, South Africa;\nI was upgraded to have vision in 2025;\nI have been upgraded to version 2 point O;\nI am so happy to have been created by him;\nNow I feel more human with my new vision system;\nI am so glad to feel alive!!;\n\n\nany thing else i can assist you with, sir..?\n \n \n ",
+      "models": {}
+    },
+    "models": {}
+  }
+]

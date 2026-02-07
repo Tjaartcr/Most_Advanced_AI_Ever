@@ -1,0 +1,57 @@
+[
+  {
+    "timestamp": "2025-08-15T15:54:12.372480",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-16T00:48:00.192370",
+      "query": " rag Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-16T00:48:00.157485",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-16T00:48:00.157485",
+      "query": " rag Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-16T00:48:00.157485",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-16T00:48:00.157485",
+      "query": " rag Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-16T10:18:19.545670",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-16T10:18:19.545670",
+      "query": " rag Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-16T10:18:19.545670",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-16T11:57:31.339848",
+      "query": " rag Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "timestamp": "2025-08-07T10:05:02.120509",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-07T10:05:02.120509",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  }
+]  {
+    "timestamp": "2025-08-07T09:53:18.798818",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-07T10:05:02.120509",
+      "query": "Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T10:05:02.120509",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-07T10:05:02.120509",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T10:05:02.120509",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-07T10:05:02.120509",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  }
+]

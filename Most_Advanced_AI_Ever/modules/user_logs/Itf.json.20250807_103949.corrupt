@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": "2025-08-07T10:05:02.136104",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-07T10:13:26.871213",
+      "query": "Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T10:13:26.871213",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-07T10:13:26.871213",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T10:13:26.871213",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-07T10:39:49.773767",
+      "query": "Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  }
+]

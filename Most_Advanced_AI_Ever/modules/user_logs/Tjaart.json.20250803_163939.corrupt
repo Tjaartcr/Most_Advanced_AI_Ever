@@ -1,0 +1,21 @@
+[
+  {
+    "timestamp": "2025-08-03T16:34:50.979659",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-03T16:34:50.979659",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  }
+]deepseek-r1:8b",
+        "chatbot": "llama3-chatqa:8b",
+        "vision": "llava",
+        "coding": "deepseek-r1:8b"
+      }
+    },
+    "models": {}
+  }
+]

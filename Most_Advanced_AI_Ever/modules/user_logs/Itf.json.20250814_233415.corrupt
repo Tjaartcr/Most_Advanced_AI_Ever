@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-08-14T23:34:15.550777",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-14T23:34:15.549780",
+      "query": "Turn on lights",
+      "response": "Error processing query: cannot access local variable 'collection' where it is not associated with a value"
+    },
+    "models": {}
+  }
+]  {
+    "timestamp": "2025-08-14T23:25:14.589908",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-14T23:29:58.534946",
+      "query": "Turn on lights",
+      "response": "System booted"
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-14T23:29:58.534946",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-14T23:29:58.534946",
+      "query": "Turn on lights",
+      "response": "Error processing query: cannot access local variable 'collection' where it is not associated with a value"
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-14T23:29:58.536942",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-14T23:29:58.534946",
+      "query": "Turn on lights",
+      "response": "Error processing query: cannot access local variable 'collection' where it is not associated with a value"
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-14T23:29:58.536942",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-14T23:34:15.549780",
+      "query": "Turn on lights",
+      "response": "System booted"
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-14T23:34:15.549780",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-14T23:34:15.549780",
+      "query": "Turn on lights",
+      "response": "Error processing query: cannot access local variable 'collection' where it is not associated with a value"
+    },
+    "models": {}
+  }
+]

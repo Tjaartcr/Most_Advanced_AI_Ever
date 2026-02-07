@@ -1,0 +1,18 @@
+{
+  "tjaartcronje@gmail.com": {
+    "password": "db62995d9b8bdc44b2023cf3aa553d1ef47591354a77b81a50ccfe599110597c",
+    "role": "user"
+  },
+  "Celinda": {
+    "password": "ecb3c85bc75c9fb1cbac27bdd30f8b5db7453b0bcc1b79654e327403d8844538",
+    "role": "user"
+  },
+  "Tjaart": {
+    "password": "db62995d9b8bdc44b2023cf3aa553d1ef47591354a77b81a50ccfe599110597c",
+    "role": "user"
+  },
+  "Bobby": {
+    "password": "e6dd2a6a2729200eef93a1175c3f5d5bfb855df53d2fc6f8e7a2d0241334bcc9",
+    "role": "user"
+  }
+}

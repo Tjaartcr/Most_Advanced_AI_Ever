@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": "2025-08-04T07:38:43.299181",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-04T07:38:43.299181",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-04T07:39:15.931693",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-04T07:39:29.220802",
+      "query": "tell me the date today",
+      "response": "At 2025-08-04 :  07:39:21 : I replied : \n \n I said the current date is Monday the 4th of August 2025 \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-04T07:39:55.267370",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-04T07:45:25.266872",
+      "query": "tell me the time?",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  }
+]

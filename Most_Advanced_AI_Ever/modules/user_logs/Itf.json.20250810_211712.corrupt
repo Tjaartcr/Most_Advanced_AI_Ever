@@ -1,0 +1,13 @@
+[
+  {
+    "timestamp": "2025-08-10T20:33:33.895189",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-10T21:17:12.232716",
+      "query": "Turn on lights : \n\n",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  }
+]

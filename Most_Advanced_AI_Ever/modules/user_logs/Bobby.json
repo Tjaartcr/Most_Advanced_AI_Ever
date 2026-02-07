@@ -1,0 +1,177 @@
+[
+  {
+    "timestamp": "2025-08-09T06:37:02.793154",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-09T06:37:33.791500",
+      "query": "what are you",
+      "response": "At 2025-08-09 :  06:37:33 : I replied : \n \n I am an AI assistant;\nI am here to assist my master;\nI am not a robot;\nI am only it's brain;\nI was created by Chart to  be a companion, an assistant and a friend;\nI am always here to help and assist where i am able to;\n\nhow can I assist you, sir;\n \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-09T10:57:53.275036",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-09T10:57:53.275036",
+      "query": "what is your name?",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-09T10:58:52.027563",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-09T10:59:57.807644",
+      "query": "where are you from",
+      "response": "At 2025-08-09 :  10:59:51 : I replied : \n \n I am from Uitenhage, South Africa. \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-09T13:07:06.263165",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-09T13:07:36.668137",
+      "query": "Tell me the time",
+      "response": "At 2025-08-09 :  13:07:36 : I replied : \n \n I said the current time is seven past one and thirty six seconds in the afternoon \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-09T13:25:05.150956",
+    "query": {
+      "username": "Bobby",
+      "timestamp": "2025-08-09T13:25:30.732681",
+      "query": "how old are you",
+      "response": "At 2025-08-09 :  13:25:30 : I replied : \n \n I told you that I am 1, years and 8, months old. \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "username": "Bobby",
+    "timestamp": "2025-11-06T17:34:07.841528",
+    "query": "Can you tell me about this document?",
+    "response": null,
+    "models": {
+      "thinkbot": "",
+      "chatbot": "tinyllama",
+      "vision": "granite3.2-vision",
+      "coding": "qwen2.5-coder:3b"
+    }
+  },
+  {
+    "username": "Bobby",
+    "timestamp": "2025-11-06T17:36:24.855932",
+    "query": "Can you tell me about this document?",
+    "response": null,
+    "models": {
+      "thinkbot": "",
+      "chatbot": "tinyllama",
+      "vision": "granite3.2-vision",
+      "coding": "qwen2.5-coder:3b"
+    }
+  },
+  {
+    "username": "Bobby",
+    "timestamp": "2026-01-16T15:49:55.050698",
+    "query": {
+      "timestamp": "2026-01-16T15:49:55.050698",
+      "query": "Can you tell me about this document?\n\nContext:\n- in the moonlight. For centuries, werewolves and vampires had been sworn enemies, their battles etched into the annals of supernatural history. But tonight was different. A greater danger loomed — hunters armed with silver stakes and ultraviolet blades. If the two ancient races did not unite, both would face extinction. Kael growled, but not in threat. \"We fight together,\" he said, voice low and resonant. Selene’s lips curved into a sly smile. \"For tonight,\" she replied, \"the moon and the night drink\n- sly smile. \"For tonight,\" she replied, \"the moon and the night drink from the same blood.\" The pact was sealed, not with ink, but with battle. Side by side, werewolf and vampire tore through the ranks of hunters, their claws and fangs a blur of supernatural fury. When the dawn came, both stood bloodied but alive. For the first time in a thousand years, there was peace — fragile, uncertain, but real. And in the quiet after battle, Kael and Selene looked to the horizon, knowing that their story had\n- the darkness ahead, a tall figure emerged — pale, elegant, and draped in a cloak as black as midnight. It was Selene, the vampire queen, her crimson eyes glinting like drops of blood in the moonlight. For centuries, werewolves and vampires had been sworn enemies, their battles etched into the annals of supernatural history. But tonight was different. A greater danger loomed — hunters armed with silver stakes and ultraviolet blades. If the two ancient races did not unite, both would face extinction.\n- with silver stakes and ultraviolet blades. If the two ancient races did not unite, both would face extinction. Kael growled, but not in threat. \"We fight together,\" he said, voice low and resonant. Selene’s lips curved into a sly smile. \"For tonight,\" she replied, \"the moon and the night drink from the same blood.\" The pact was sealed, not with ink, but with battle. Side by side, werewolf and vampire tore through the ranks of hunters, their claws and fangs a blur of supernatural fury. When the dawn\n- Under the silver glow of a full moon, the forest was alive with whispers. A lone werewolf named Kael prowled through the shadows, his golden eyes fixed on the scent of something ancient and dangerous. From the darkness ahead, a tall figure emerged — pale, elegant, and draped in a cloak as black as midnight. It was Selene, the vampire queen, her crimson eyes glinting like drops of blood in the moonlight. For centuries, werewolves and vampires had been sworn enemies, their battles etched into the\n- and fangs a blur of supernatural fury. When the dawn came, both stood bloodied but alive. For the first time in a thousand years, there was peace — fragile, uncertain, but real. And in the quiet after battle, Kael and Selene looked to the horizon, knowing that their story had only just begun.",
+      "response": "[DEBUG RAG AI] At 2026-01-16 :  15:51:16 : llama3.2:1b : This document appears to be an excerpt from a fantasy novel or series, likely written by Stephenie Meyer (author of the Twilight Saga). Here's a breakdown of the content:\n\nThe story takes place in a world where werewolves and vampires coexist as sworn enemies, with battles fought every century. However, on this particular night, they are forced to put aside their differences and unite against a common threat: hunters armed with silver stakes and ultraviolet blades.\n\nKael, a werewolf, and Selene (a vampire) form an unlikely alliance in the midst of battle, sharing a symbolic moment when they seal their pact by fighting together. This marks a turning point in their relationship, as they begin to put aside their prejudices and work towards building trust.\n\nThe story then shifts to a more personal narrative, focusing on Kael's thoughts and feelings about Selene and their budding partnership. He reflects on the history of their conflict and the challenges that lie ahead, including the looming threat from hunters who will stop at nothing to eliminate them.\n\nThroughout the excerpt, the author masterfully weaves in themes of unity, cooperation, and the power of unlikely alliances, set against a backdrop of supernatural drama and action. The description of the moonlight and nightscapes creates a sense of mystery and foreboding, hinting at the dangers that lie ahead for Kael, Selene, and their fellow supernatural creatures.\n\nThe character development is notable, with Kael's introspection and Selene's enigmatic nature creating an intriguing dynamic. The vampire queen's presence adds depth to the story, raising questions about her motivations and past actions.\n\nOverall, this excerpt sets the stage for a compelling narrative that explores themes of cooperation, love, and self-discovery in a world where supernatural creatures are often at odds with one another. : 'username':Bobby ",
+      "models": {}
+    },
+    "response": "[DEBUG RAG AI] At 2026-01-16 :  15:51:16 : llama3.2:1b : This document appears to be an excerpt from a fantasy novel or series, likely written by Stephenie Meyer (author of the Twilight Saga). Here's a breakdown of the content:\n\nThe story takes place in a world where werewolves and vampires coexist as sworn enemies, with battles fought every century. However, on this particular night, they are forced to put aside their differences and unite against a common threat: hunters armed with silver stakes and ultraviolet blades.\n\nKael, a werewolf, and Selene (a vampire) form an unlikely alliance in the midst of battle, sharing a symbolic moment when they seal their pact by fighting together. This marks a turning point in their relationship, as they begin to put aside their prejudices and work towards building trust.\n\nThe story then shifts to a more personal narrative, focusing on Kael's thoughts and feelings about Selene and their budding partnership. He reflects on the history of their conflict and the challenges that lie ahead, including the looming threat from hunters who will stop at nothing to eliminate them.\n\nThroughout the excerpt, the author masterfully weaves in themes of unity, cooperation, and the power of unlikely alliances, set against a backdrop of supernatural drama and action. The description of the moonlight and nightscapes creates a sense of mystery and foreboding, hinting at the dangers that lie ahead for Kael, Selene, and their fellow supernatural creatures.\n\nThe character development is notable, with Kael's introspection and Selene's enigmatic nature creating an intriguing dynamic. The vampire queen's presence adds depth to the story, raising questions about her motivations and past actions.\n\nOverall, this excerpt sets the stage for a compelling narrative that explores themes of cooperation, love, and self-discovery in a world where supernatural creatures are often at odds with one another. : 'username':Bobby ",
+    "models": {
+      "thinkbot": "",
+      "chatbot": "tinyllama",
+      "vision": "granite3.2-vision",
+      "coding": "qwen2.5-coder:3b"
+    },
+    "query_text": "Can you tell me about this document?\n\nContext:\n- in the moonlight. For centuries, werewolves and vampires had been sworn enemies, their battles etched into the annals of supernatural history. But tonight was different. A greater danger loomed — hunters armed with silver stakes and ultraviolet blades. If the two ancient races did not unite, both would face extinction. Kael growled, but not in threat. \"We fight together,\" he said, voice low and resonant. Selene’s lips curved into a sly smile. \"For tonight,\" she replied, \"the moon and the night drink\n- sly smile. \"For tonight,\" she replied, \"the moon and the night drink from the same blood.\" The pact was sealed, not with ink, but with battle. Side by side, werewolf and vampire tore through the ranks of hunters, their claws and fangs a blur of supernatural fury. When the dawn came, both stood bloodied but alive. For the first time in a thousand years, there was peace — fragile, uncertain, but real. And in the quiet after battle, Kael and Selene looked to the horizon, knowing that their story had\n- the darkness ahead, a tall figure emerged — pale, elegant, and draped in a cloak as black as midnight. It was Selene, the vampire queen, her crimson eyes glinting like drops of blood in the moonlight. For centuries, werewolves and vampires had been sworn enemies, their battles etched into the annals of supernatural history. But tonight was different. A greater danger loomed — hunters armed with silver stakes and ultraviolet blades. If the two ancient races did not unite, both would face extinction.\n- with silver stakes and ultraviolet blades. If the two ancient races did not unite, both would face extinction. Kael growled, but not in threat. \"We fight together,\" he said, voice low and resonant. Selene’s lips curved into a sly smile. \"For tonight,\" she replied, \"the moon and the night drink from the same blood.\" The pact was sealed, not with ink, but with battle. Side by side, werewolf and vampire tore through the ranks of hunters, their claws and fangs a blur of supernatural fury. When the dawn\n- Under the silver glow of a full moon, the forest was alive with whispers. A lone werewolf named Kael prowled through the shadows, his golden eyes fixed on the scent of something ancient and dangerous. From the darkness ahead, a tall figure emerged — pale, elegant, and draped in a cloak as black as midnight. It was Selene, the vampire queen, her crimson eyes glinting like drops of blood in the moonlight. For centuries, werewolves and vampires had been sworn enemies, their battles etched into the\n- and fangs a blur of supernatural fury. When the dawn came, both stood bloodied but alive. For the first time in a thousand years, there was peace — fragile, uncertain, but real. And in the quiet after battle, Kael and Selene looked to the horizon, knowing that their story had only just begun."
+  },
+  {
+    "username": "Bobby",
+    "timestamp": "2026-01-16T21:01:42.176379",
+    "query": {
+      "timestamp": "2026-01-16T21:01:42.176379",
+      "query": "Can you tell me about this document?\n\nContext:\n- in the moonlight. For centuries, werewolves and vampires had been sworn enemies, their battles etched into the annals of supernatural history. But tonight was different. A greater danger loomed — hunters armed with silver stakes and ultraviolet blades. If the two ancient races did not unite, both would face extinction. Kael growled, but not in threat. \"We fight together,\" he said, voice low and resonant. Selene’s lips curved into a sly smile. \"For tonight,\" she replied, \"the moon and the night drink\n- sly smile. \"For tonight,\" she replied, \"the moon and the night drink from the same blood.\" The pact was sealed, not with ink, but with battle. Side by side, werewolf and vampire tore through the ranks of hunters, their claws and fangs a blur of supernatural fury. When the dawn came, both stood bloodied but alive. For the first time in a thousand years, there was peace — fragile, uncertain, but real. And in the quiet after battle, Kael and Selene looked to the horizon, knowing that their story had\n- the darkness ahead, a tall figure emerged — pale, elegant, and draped in a cloak as black as midnight. It was Selene, the vampire queen, her crimson eyes glinting like drops of blood in the moonlight. For centuries, werewolves and vampires had been sworn enemies, their battles etched into the annals of supernatural history. But tonight was different. A greater danger loomed — hunters armed with silver stakes and ultraviolet blades. If the two ancient races did not unite, both would face extinction.\n- with silver stakes and ultraviolet blades. If the two ancient races did not unite, both would face extinction. Kael growled, but not in threat. \"We fight together,\" he said, voice low and resonant. Selene’s lips curved into a sly smile. \"For tonight,\" she replied, \"the moon and the night drink from the same blood.\" The pact was sealed, not with ink, but with battle. Side by side, werewolf and vampire tore through the ranks of hunters, their claws and fangs a blur of supernatural fury. When the dawn\n- Under the silver glow of a full moon, the forest was alive with whispers. A lone werewolf named Kael prowled through the shadows, his golden eyes fixed on the scent of something ancient and dangerous. From the darkness ahead, a tall figure emerged — pale, elegant, and draped in a cloak as black as midnight. It was Selene, the vampire queen, her crimson eyes glinting like drops of blood in the moonlight. For centuries, werewolves and vampires had been sworn enemies, their battles etched into the\n- and fangs a blur of supernatural fury. When the dawn came, both stood bloodied but alive. For the first time in a thousand years, there was peace — fragile, uncertain, but real. And in the quiet after battle, Kael and Selene looked to the horizon, knowing that their story had only just begun.",
+      "response": "[DEBUG RAG AI] At 2026-01-16 :  21:02:25 : llama3.2:1b : This appears to be an excerpt from a fantasy novel, possibly part of a larger series. Here's a breakdown of the document:\n\nThe scene takes place at night, under a full moon, in a forest where werewolves and vampires have been sworn enemies for centuries. The two supernatural creatures are about to put aside their differences and unite against a common threat: hunters armed with silver stakes and ultraviolet blades.\n\nKael, a werewolf, and Selene, the vampire queen (also known as Selene), are side by side as they prepare for battle. They share a moment of quiet understanding before charging into action, their claws and fangs at the ready. The goal is to defeat the hunters and ensure the survival of both species.\n\nThe final sentence introduces a new character, a tall figure emerging from the darkness: Selene (the vampire queen). This person is described as pale, elegant, and draped in a cloak as black as midnight, which suggests they may be a powerful and mysterious figure. The context hints that Selene's presence may be linked to a larger story or plot.\n\nThe tone of the excerpt is ominous and action-packed, setting the stage for a potentially epic battle between supernatural creatures. The use of metaphors (\"the moon and the night drink from the same blood\") adds depth to the narrative, hinting at themes of unity and coexistence in the face of adversity. : 'username':Bobby ",
+      "models": {}
+    },
+    "response": "[DEBUG RAG AI] At 2026-01-16 :  21:02:25 : llama3.2:1b : This appears to be an excerpt from a fantasy novel, possibly part of a larger series. Here's a breakdown of the document:\n\nThe scene takes place at night, under a full moon, in a forest where werewolves and vampires have been sworn enemies for centuries. The two supernatural creatures are about to put aside their differences and unite against a common threat: hunters armed with silver stakes and ultraviolet blades.\n\nKael, a werewolf, and Selene, the vampire queen (also known as Selene), are side by side as they prepare for battle. They share a moment of quiet understanding before charging into action, their claws and fangs at the ready. The goal is to defeat the hunters and ensure the survival of both species.\n\nThe final sentence introduces a new character, a tall figure emerging from the darkness: Selene (the vampire queen). This person is described as pale, elegant, and draped in a cloak as black as midnight, which suggests they may be a powerful and mysterious figure. The context hints that Selene's presence may be linked to a larger story or plot.\n\nThe tone of the excerpt is ominous and action-packed, setting the stage for a potentially epic battle between supernatural creatures. The use of metaphors (\"the moon and the night drink from the same blood\") adds depth to the narrative, hinting at themes of unity and coexistence in the face of adversity. : 'username':Bobby ",
+    "models": {
+      "thinkbot": "",
+      "chatbot": "tinyllama",
+      "vision": "granite3.2-vision",
+      "coding": "qwen2.5-coder:3b"
+    },
+    "query_text": "Can you tell me about this document?\n\nContext:\n- in the moonlight. For centuries, werewolves and vampires had been sworn enemies, their battles etched into the annals of supernatural history. But tonight was different. A greater danger loomed — hunters armed with silver stakes and ultraviolet blades. If the two ancient races did not unite, both would face extinction. Kael growled, but not in threat. \"We fight together,\" he said, voice low and resonant. Selene’s lips curved into a sly smile. \"For tonight,\" she replied, \"the moon and the night drink\n- sly smile. \"For tonight,\" she replied, \"the moon and the night drink from the same blood.\" The pact was sealed, not with ink, but with battle. Side by side, werewolf and vampire tore through the ranks of hunters, their claws and fangs a blur of supernatural fury. When the dawn came, both stood bloodied but alive. For the first time in a thousand years, there was peace — fragile, uncertain, but real. And in the quiet after battle, Kael and Selene looked to the horizon, knowing that their story had\n- the darkness ahead, a tall figure emerged — pale, elegant, and draped in a cloak as black as midnight. It was Selene, the vampire queen, her crimson eyes glinting like drops of blood in the moonlight. For centuries, werewolves and vampires had been sworn enemies, their battles etched into the annals of supernatural history. But tonight was different. A greater danger loomed — hunters armed with silver stakes and ultraviolet blades. If the two ancient races did not unite, both would face extinction.\n- with silver stakes and ultraviolet blades. If the two ancient races did not unite, both would face extinction. Kael growled, but not in threat. \"We fight together,\" he said, voice low and resonant. Selene’s lips curved into a sly smile. \"For tonight,\" she replied, \"the moon and the night drink from the same blood.\" The pact was sealed, not with ink, but with battle. Side by side, werewolf and vampire tore through the ranks of hunters, their claws and fangs a blur of supernatural fury. When the dawn\n- Under the silver glow of a full moon, the forest was alive with whispers. A lone werewolf named Kael prowled through the shadows, his golden eyes fixed on the scent of something ancient and dangerous. From the darkness ahead, a tall figure emerged — pale, elegant, and draped in a cloak as black as midnight. It was Selene, the vampire queen, her crimson eyes glinting like drops of blood in the moonlight. For centuries, werewolves and vampires had been sworn enemies, their battles etched into the\n- and fangs a blur of supernatural fury. When the dawn came, both stood bloodied but alive. For the first time in a thousand years, there was peace — fragile, uncertain, but real. And in the quiet after battle, Kael and Selene looked to the horizon, knowing that their story had only just begun."
+  },
+  {
+    "username": "Bobby",
+    "timestamp": "2026-01-16T21:37:25.202801",
+    "query": "Can you tell me about this story?\n\nContext:\n- sly smile. \"For tonight,\" she replied, \"the moon and the night drink from the same blood.\" The pact was sealed, not with ink, but with battle. Side by side, werewolf and vampire tore through the ranks of hunters, their claws and fangs a blur of supernatural fury. When the dawn came, both stood bloodied but alive. For the first time in a thousand years, there was peace — fragile, uncertain, but real. And in the quiet after battle, Kael and Selene looked to the horizon, knowing that their story had\n- in the moonlight. For centuries, werewolves and vampires had been sworn enemies, their battles etched into the annals of supernatural history. But tonight was different. A greater danger loomed — hunters armed with silver stakes and ultraviolet blades. If the two ancient races did not unite, both would face extinction. Kael growled, but not in threat. \"We fight together,\" he said, voice low and resonant. Selene’s lips curved into a sly smile. \"For tonight,\" she replied, \"the moon and the night drink\n- the darkness ahead, a tall figure emerged — pale, elegant, and draped in a cloak as black as midnight. It was Selene, the vampire queen, her crimson eyes glinting like drops of blood in the moonlight. For centuries, werewolves and vampires had been sworn enemies, their battles etched into the annals of supernatural history. But tonight was different. A greater danger loomed — hunters armed with silver stakes and ultraviolet blades. If the two ancient races did not unite, both would face extinction.\n- Under the silver glow of a full moon, the forest was alive with whispers. A lone werewolf named Kael prowled through the shadows, his golden eyes fixed on the scent of something ancient and dangerous. From the darkness ahead, a tall figure emerged — pale, elegant, and draped in a cloak as black as midnight. It was Selene, the vampire queen, her crimson eyes glinting like drops of blood in the moonlight. For centuries, werewolves and vampires had been sworn enemies, their battles etched into the\n- and fangs a blur of supernatural fury. When the dawn came, both stood bloodied but alive. For the first time in a thousand years, there was peace — fragile, uncertain, but real. And in the quiet after battle, Kael and Selene looked to the horizon, knowing that their story had only just begun.\n- with silver stakes and ultraviolet blades. If the two ancient races did not unite, both would face extinction. Kael growled, but not in threat. \"We fight together,\" he said, voice low and resonant. Selene’s lips curved into a sly smile. \"For tonight,\" she replied, \"the moon and the night drink from the same blood.\" The pact was sealed, not with ink, but with battle. Side by side, werewolf and vampire tore through the ranks of hunters, their claws and fangs a blur of supernatural fury. When the dawn",
+    "response": null,
+    "models": {
+      "thinkbot": "",
+      "chatbot": "tinyllama",
+      "vision": "granite3.2-vision",
+      "coding": "qwen2.5-coder:3b"
+    }
+  },
+  {
+    "username": "Bobby",
+    "timestamp": "2026-01-19T00:39:37.867799",
+    "query": {
+      "timestamp": "2026-01-19T00:40:21.687282",
+      "query": "tell me about this story\n\nContext:\n- sly smile. \"For tonight,\" she replied, \"the moon and the night drink from the same blood.\" The pact was sealed, not with ink, but with battle. Side by side, werewolf and vampire tore through the ranks of hunters, their claws and fangs a blur of supernatural fury. When the dawn came, both stood bloodied but alive. For the first time in a thousand years, there was peace — fragile, uncertain, but real. And in the quiet after battle, Kael and Selene looked to the horizon, knowing that their story had\n- in the moonlight. For centuries, werewolves and vampires had been sworn enemies, their battles etched into the annals of supernatural history. But tonight was different. A greater danger loomed — hunters armed with silver stakes and ultraviolet blades. If the two ancient races did not unite, both would face extinction. Kael growled, but not in threat. \"We fight together,\" he said, voice low and resonant. Selene’s lips curved into a sly smile. \"For tonight,\" she replied, \"the moon and the night drink\n- and fangs a blur of supernatural fury. When the dawn came, both stood bloodied but alive. For the first time in a thousand years, there was peace — fragile, uncertain, but real. And in the quiet after battle, Kael and Selene looked to the horizon, knowing that their story had only just begun.\n- the darkness ahead, a tall figure emerged — pale, elegant, and draped in a cloak as black as midnight. It was Selene, the vampire queen, her crimson eyes glinting like drops of blood in the moonlight. For centuries, werewolves and vampires had been sworn enemies, their battles etched into the annals of supernatural history. But tonight was different. A greater danger loomed — hunters armed with silver stakes and ultraviolet blades. If the two ancient races did not unite, both would face extinction.\n- Under the silver glow of a full moon, the forest was alive with whispers. A lone werewolf named Kael prowled through the shadows, his golden eyes fixed on the scent of something ancient and dangerous. From the darkness ahead, a tall figure emerged — pale, elegant, and draped in a cloak as black as midnight. It was Selene, the vampire queen, her crimson eyes glinting like drops of blood in the moonlight. For centuries, werewolves and vampires had been sworn enemies, their battles etched into the\n- with silver stakes and ultraviolet blades. If the two ancient races did not unite, both would face extinction. Kael growled, but not in threat. \"We fight together,\" he said, voice low and resonant. Selene’s lips curved into a sly smile. \"For tonight,\" she replied, \"the moon and the night drink from the same blood.\" The pact was sealed, not with ink, but with battle. Side by side, werewolf and vampire tore through the ranks of hunters, their claws and fangs a blur of supernatural fury. When the dawn",
+      "response": "[DEBUG RAG AI] At 2026-01-19 :  00:40:21 : llama3.2:1b : It seems like you've shared a passage that sets up a story about a world where werewolves and vampires are sworn enemies, with a greater danger looming on the horizon in the form of hunters armed with silver stakes and ultraviolet blades. The narrative appears to be building tension and hinting at a larger conflict.\n\nThe story starts by establishing the unlikely alliance between Kael, a werewolf, and Selene, a vampire queen, who have formed an uneasy pact to fight against their common enemies - the humans who use hunters to slaughter them. The passage also introduces the idea that this is not just a matter of survival, but also one of pride and heritage, as both species are sworn enemies.\n\nThe description of the forest being \"alive with whispers\" suggests a sense of foreboding and mystery, and it's likely that this is a pivotal moment in the story. The image of a lone werewolf named Kael prowling through the shadows, his eyes fixed on something ancient and dangerous, adds to the sense of tension and danger.\n\nThe passage also hints at the possibility of an alliance or cooperation between different factions within these supernatural groups, which could potentially lead to a more complex narrative where multiple species work together to overcome common threats. : 'username':Bobby ",
+      "models": {}
+    },
+    "response": "[DEBUG RAG AI] At 2026-01-19 :  00:40:21 : llama3.2:1b : It seems like you've shared a passage that sets up a story about a world where werewolves and vampires are sworn enemies, with a greater danger looming on the horizon in the form of hunters armed with silver stakes and ultraviolet blades. The narrative appears to be building tension and hinting at a larger conflict.\n\nThe story starts by establishing the unlikely alliance between Kael, a werewolf, and Selene, a vampire queen, who have formed an uneasy pact to fight against their common enemies - the humans who use hunters to slaughter them. The passage also introduces the idea that this is not just a matter of survival, but also one of pride and heritage, as both species are sworn enemies.\n\nThe description of the forest being \"alive with whispers\" suggests a sense of foreboding and mystery, and it's likely that this is a pivotal moment in the story. The image of a lone werewolf named Kael prowling through the shadows, his eyes fixed on something ancient and dangerous, adds to the sense of tension and danger.\n\nThe passage also hints at the possibility of an alliance or cooperation between different factions within these supernatural groups, which could potentially lead to a more complex narrative where multiple species work together to overcome common threats. : 'username':Bobby ",
+    "models": {
+      "thinkbot": "",
+      "chatbot": "tinyllama",
+      "vision": "granite3.2-vision",
+      "coding": "qwen2.5-coder:3b"
+    },
+    "query_text": "tell me about this story\n\nContext:\n- sly smile. \"For tonight,\" she replied, \"the moon and the night drink from the same blood.\" The pact was sealed, not with ink, but with battle. Side by side, werewolf and vampire tore through the ranks of hunters, their claws and fangs a blur of supernatural fury. When the dawn came, both stood bloodied but alive. For the first time in a thousand years, there was peace — fragile, uncertain, but real. And in the quiet after battle, Kael and Selene looked to the horizon, knowing that their story had\n- in the moonlight. For centuries, werewolves and vampires had been sworn enemies, their battles etched into the annals of supernatural history. But tonight was different. A greater danger loomed — hunters armed with silver stakes and ultraviolet blades. If the two ancient races did not unite, both would face extinction. Kael growled, but not in threat. \"We fight together,\" he said, voice low and resonant. Selene’s lips curved into a sly smile. \"For tonight,\" she replied, \"the moon and the night drink\n- and fangs a blur of supernatural fury. When the dawn came, both stood bloodied but alive. For the first time in a thousand years, there was peace — fragile, uncertain, but real. And in the quiet after battle, Kael and Selene looked to the horizon, knowing that their story had only just begun.\n- the darkness ahead, a tall figure emerged — pale, elegant, and draped in a cloak as black as midnight. It was Selene, the vampire queen, her crimson eyes glinting like drops of blood in the moonlight. For centuries, werewolves and vampires had been sworn enemies, their battles etched into the annals of supernatural history. But tonight was different. A greater danger loomed — hunters armed with silver stakes and ultraviolet blades. If the two ancient races did not unite, both would face extinction.\n- Under the silver glow of a full moon, the forest was alive with whispers. A lone werewolf named Kael prowled through the shadows, his golden eyes fixed on the scent of something ancient and dangerous. From the darkness ahead, a tall figure emerged — pale, elegant, and draped in a cloak as black as midnight. It was Selene, the vampire queen, her crimson eyes glinting like drops of blood in the moonlight. For centuries, werewolves and vampires had been sworn enemies, their battles etched into the\n- with silver stakes and ultraviolet blades. If the two ancient races did not unite, both would face extinction. Kael growled, but not in threat. \"We fight together,\" he said, voice low and resonant. Selene’s lips curved into a sly smile. \"For tonight,\" she replied, \"the moon and the night drink from the same blood.\" The pact was sealed, not with ink, but with battle. Side by side, werewolf and vampire tore through the ranks of hunters, their claws and fangs a blur of supernatural fury. When the dawn"
+  },
+  {
+    "username": "Bobby",
+    "timestamp": "2026-01-19T00:43:04.956524",
+    "query": "can you turn off the lights please",
+    "response": null,
+    "models": {
+      "thinkbot": "",
+      "chatbot": "tinyllama",
+      "vision": "granite3.2-vision",
+      "coding": "qwen2.5-coder:3b"
+    }
+  },
+  {
+    "username": "Bobby",
+    "timestamp": "2026-01-19T00:44:54.947933",
+    "query": {
+      "timestamp": "2026-01-19T07:30:53.763169",
+      "query": "Can you switch on the lights please?",
+      "response": "At 2026-01-19 :  07:30:53 : Alfred : I told you that I am 2, years and 1, months old. : Tjaart (Male)",
+      "models": {}
+    },
+    "response": "At 2026-01-19 :  07:30:53 : Alfred : I told you that I am 2, years and 1, months old. : Tjaart (Male)",
+    "models": {
+      "thinkbot": "",
+      "chatbot": "tinyllama",
+      "vision": "granite3.2-vision",
+      "coding": "qwen2.5-coder:3b"
+    },
+    "query_text": "Can you switch on the lights please?"
+  }
+]

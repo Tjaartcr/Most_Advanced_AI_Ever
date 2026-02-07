@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2025-08-03T21:25:59.324644",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-03T21:25:59.324644",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {},
+    "username": "Itf"
+  }
+]  {
+    "timestamp": "2025-08-03T21:17:33.124343",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-03T21:17:33.124343",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {},
+    "username": "Itf"
+  },
+  {
+    "timestamp": "2025-08-03T21:17:33.124343",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-03T21:17:33.124343",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {},
+    "username": "Itf"
+  },
+  {
+    "timestamp": "2025-08-03T21:25:59.324644",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-03T21:25:59.324644",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {},
+    "username": "Itf"
+  }
+]

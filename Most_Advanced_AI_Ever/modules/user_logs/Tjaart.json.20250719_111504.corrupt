@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": "2025-07-19T10:57:40.806055",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T10:57:58.013133",
+      "query": "what is the time now?",
+      "response": "At 2025-07-19 :  10:57:49 : I replied : \n \n I said the current time is fifty seven past ten and forty nine seconds in the morning \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T10:58:15.654202",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T10:58:29.606481",
+      "query": "tell me the time?",
+      "response": "At 2025-07-19 :  10:58:22 : I replied : \n \n I said the current time is fifty eight past ten and twenty two seconds in the morning \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T10:58:57.949517",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T11:12:25.060971",
+      "query": "tell me what the time is?",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T11:13:11.868630",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T11:13:26.871788",
+      "query": "tell me the time?",
+      "response": "At 2025-07-19 :  11:13:18 : I replied : \n \n I said the current time is thirteen past eleven and eighteen seconds in the morning \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T11:13:57.331220",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T11:14:11.552371",
+      "query": "the time",
+      "response": "At 2025-07-19 :  11:14:03 : I replied : \n \n I said the current time is fourteen past eleven and three seconds in the morning \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T11:14:49.092123",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T11:15:04.552812",
+      "query": "what is the time?",
+      "response": "At 2025-07-19 :  11:14:56 : I replied : \n \n I said the current time is fourteen past eleven and fifty six seconds in the morning \n \n ",
+      "models": {}
+    },
+    "models": {}
+  }
+]

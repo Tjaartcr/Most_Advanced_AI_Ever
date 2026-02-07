@@ -1,0 +1,34 @@
+[
+  {
+    "timestamp": "2025-09-05T17:10:00.810726",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-09-05T18:10:26.765285",
+      "query": "tell me the time?",
+      "response": "I replied : i am sorry if i offended you sir, it was not my intention; i am only a program sir; sir, please dont swear at me or anyone; there are children nearby and it is very rood; please calm down and relax; you are much better than that; have a awesome day and keep well please master;",
+      "models": {
+        "thinkbot": "mistral",
+        "chatbot": "tinyllama",
+        "vision": "granite3.2-vision",
+        "coding": "starcoder2"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-05T18:27:07.148726",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-09-05T18:27:13.461462",
+      "query": "tell me the time?",
+      "response": "I said the current time is twenty seven past six and thirteen seconds in the evening",
+      "models": {
+        "thinkbot": "mistral",
+        "chatbot": "tinyllama",
+        "vision": "granite3.2-vision",
+        "coding": "starcoder2"
+      }
+    },
+    "models": {}
+  }
+]

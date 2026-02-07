@@ -1,0 +1,54 @@
+[
+  {
+    "timestamp": "2025-08-16T15:15:33.495441",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-16T15:15:33.465187",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "[ERROR] Model generation failed: \"mxbai-embed-large\" does not support generate",
+      "models": {}
+    },
+    "models": {}
+  }
+]name": "Itf",
+      "timestamp": "2025-08-16T14:54:23.188140",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "[ERROR] Model generation failed: \"mxbai-embed-large\" does not support generate",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-16T14:54:23.218339",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-16T15:15:33.465187",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-16T15:15:33.465187",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-16T15:15:33.465187",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-16T15:15:33.495441",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-16T15:15:33.465187",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "[ERROR] Model generation failed: \"mxbai-embed-large\" does not support generate",
+      "models": {}
+    },
+    "models": {}
+  }
+]

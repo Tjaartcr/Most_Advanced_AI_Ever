@@ -1,0 +1,178 @@
+[
+  {
+    "timestamp": "2025-08-17T00:09:21.747888",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-17T00:09:21.747888",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-17T00:09:21.747888",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-17T00:09:21.747888",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-17T00:09:21.747888",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-17T00:09:21.747888",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "[ERROR] Model generation failed: must provide a model",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-17T00:09:23.671286",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-17T14:05:13.672967",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-17T14:05:13.626075",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-17T14:05:13.626075",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-17T14:05:13.672967",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-17T14:05:13.626075",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "[ERROR] Model generation failed: must provide a model",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-17T14:05:15.735060",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-17T16:20:41.074098",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-17T16:20:41.042886",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-17T16:20:41.042886",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-17T16:20:41.074098",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-17T16:20:41.042886",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "[ERROR] Model generation failed: must provide a model",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-17T16:20:43.415015",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-17T16:45:16.104461",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-17T16:45:16.104461",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-17T16:45:16.104461",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-17T16:45:16.104461",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-17T16:45:16.104461",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "[ERROR] Model generation failed: must provide a model",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-17T16:45:18.079570",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-17T22:22:14.282131",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-17T22:22:14.266510",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-17T22:22:14.266510",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-17T22:22:14.297752",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-17T22:22:14.266510",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "[ERROR] Model generation failed: must provide a model",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-17T22:22:17.984881",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-17T22:32:29.170934",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  }
+]

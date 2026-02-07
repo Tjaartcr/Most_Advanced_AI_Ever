@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": "2025-08-02T11:01:53.472663",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T11:01:53.472663",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T11:01:53.472663",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T11:01:53.472663",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T11:06:16.353565",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T11:06:48.517359",
+      "query": "Tell me the time",
+      "response": "At 2025-08-02 :  11:06:38 : I replied : \n \n I said the current time is six past eleven and thirty eight seconds in the morning \n \n ",
+      "models": {}
+    },
+    "models": {}
+  }
+]

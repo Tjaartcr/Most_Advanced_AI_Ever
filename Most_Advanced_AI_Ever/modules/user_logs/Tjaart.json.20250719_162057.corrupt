@@ -1,0 +1,13 @@
+[
+  {
+    "timestamp": "2025-07-19T16:13:56.793233",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T16:20:56.898954",
+      "query": "tell me about elon musk",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  }
+]

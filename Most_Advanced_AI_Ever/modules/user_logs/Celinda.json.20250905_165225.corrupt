@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2025-09-05T16:28:12.509320",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-09-05T16:50:47.330254",
+      "query": "tell me the time?",
+      "response": "I replied : I am from Uitenhage, South Africa.",
+      "models": {
+        "thinkbot": "mistral",
+        "chatbot": "tinyllama",
+        "vision": "granite3.2-vision",
+        "coding": "starcoder2"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-05T16:51:59.083743",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-09-05T16:52:05.832783",
+      "query": "tell me the date?",
+      "response": "I said the current date is Friday the 5th of September 2025",
+      "models": {
+        "thinkbot": "mistral",
+        "chatbot": "tinyllama",
+        "vision": "granite3.2-vision",
+        "coding": "starcoder2"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-09-05T16:52:18.459605",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-09-05T16:52:25.268072",
+      "query": "what are you?",
+      "response": "I am an AI assistant; I am here to assist my master; I am not a robot; I am only it's brain; I was created by Chart to be a companion, an assistant and a friend; I am always here to help and assist where i am able to; how can I assist you, sir;",
+      "models": {
+        "thinkbot": "mistral",
+        "chatbot": "tinyllama",
+        "vision": "granite3.2-vision",
+        "coding": "starcoder2"
+      }
+    },
+    "models": {}
+  }
+]

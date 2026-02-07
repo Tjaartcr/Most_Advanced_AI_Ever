@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2025-08-16T14:35:42.858577",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-16T14:35:42.858577",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-16T14:35:42.884120",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-16T14:35:42.858577",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "[ERROR] Model generation failed: model 'mxbai' not found",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-16T14:35:42.886748",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-16T14:40:33.224914",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  }
+]dels": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-16T14:40:33.224914",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-16T14:40:33.224914",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  }
+]

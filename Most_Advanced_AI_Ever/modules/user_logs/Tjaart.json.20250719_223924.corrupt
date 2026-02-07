@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-07-19T22:36:40.639128",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T22:38:03.396537",
+      "query": "what are you?",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T22:39:02.870284",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T22:39:24.169155",
+      "query": "what are you?",
+      "response": "At 2025-07-19 :  22:39:06 : I replied : \n \n I am an AI assistant;\nI am here to assist my master;\nI am not a robot;\nI am only it's brain;\nI was created by Chart to  be a companion, an assistant and a friend;\nI am always here to help and assist where i am able to;\n\nhow can I assist you, sir;\n \n \n ",
+      "models": {}
+    },
+    "models": {}
+  }
+]

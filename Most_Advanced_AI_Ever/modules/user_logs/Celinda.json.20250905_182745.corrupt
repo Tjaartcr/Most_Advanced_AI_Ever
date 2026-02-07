@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2025-09-05T18:27:35.908270",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-09-05T18:27:45.449418",
+      "query": "tell me the time?",
+      "response": "I said the current time is twenty seven past six and forty five seconds in the evening",
+      "models": {
+        "thinkbot": "mistral",
+        "chatbot": "tinyllama",
+        "vision": "granite3.2-vision",
+        "coding": "starcoder2"
+      }
+    },
+    "models": {}
+  }
+]

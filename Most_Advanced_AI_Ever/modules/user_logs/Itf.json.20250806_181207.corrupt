@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-08-06T17:49:28.442225",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-06T17:58:28.810601",
+      "query": "Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-06T17:58:28.810601",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-06T18:12:07.138531",
+      "query": "Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  }
+]

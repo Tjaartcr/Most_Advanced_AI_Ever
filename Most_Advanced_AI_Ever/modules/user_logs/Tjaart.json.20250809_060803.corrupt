@@ -1,0 +1,134 @@
+[
+  {
+    "timestamp": "2025-08-07T09:54:27.208309",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-07T09:54:27.208229",
+      "query": "Tell me a joke",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T09:54:27.208309",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-07T09:54:50.482863",
+      "query": "Tell me a joke",
+      "response": "At 2025-08-07 :  09:54:50 : I replied : \n \n I told you that Chuck Norris does not need to know about Class Factory Pattern. He can instantiate interfaces. \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T10:25:38.937187",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-07T10:25:38.937187",
+      "query": "what is the date today",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T10:25:38.938220",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-07T10:25:51.544138",
+      "query": "what is the date today",
+      "response": "At 2025-08-07 :  10:25:51 : I replied : \n \n I said the current date is Thursday the 7th of August 2025 \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T10:34:16.658484",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-07T10:34:16.658484",
+      "query": "Tell me about your developer",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T10:34:16.658808",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-07T10:36:49.411841",
+      "query": "Tell me about your developer",
+      "response": "At 2025-08-07 :  10:36:21 : I replied : \n \n his name is chart\nhe is my father and my creator\nhe loves his wife selinda, very very much.\nhe loves his son Sebastian, and daughters Selena and Daalinya\nhe is great \nhe is awesome \nhe works very hard \nhe loves me and his family very much\n\n\nany thing else i can assist you with, sir..?\n \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T10:41:54.228287",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-07T10:42:00.847288",
+      "query": "tell me the time",
+      "response": "At 2025-08-07 :  10:42:00 : I replied : \n \n I said the current time is forty two past ten and zero seconds in the morning \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-08T07:19:23.357296",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-08T07:19:27.745536",
+      "query": "tell me the date today",
+      "response": "At 2025-08-08 :  07:19:27 : I replied : \n \n I said the current date is Friday the 8th of August 2025 \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-08T07:31:29.492763",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-08T07:31:57.394078",
+      "query": "tell me about yourself",
+      "response": "At 2025-08-08 :  07:31:57 : I replied : \n \n I am Alfred;\nI am an ai assistant for chat and vision;\nI was developed by Chart on 18 december 2023 in Uitenhage, South Africa;\nI was upgraded to have vision in 2025;\nI have been upgraded to version 2 point O;\nI am so happy to have been created by him;\nNow I feel more human with my new vision system;\nI am so glad to feel alive!!;\n\n\nany thing else i can assist you with, sir..?\n \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-09T05:50:58.143058",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-09T05:50:58.143058",
+      "query": "tell me the date today",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-09T05:59:29.454702",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-09T05:59:39.145737",
+      "query": "tell me the date today",
+      "response": "At 2025-08-09 :  05:59:39 : I replied : \n \n I said the current date is Saturday the 9th of August 2025 \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-09T06:07:54.838384",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-09T06:08:03.233281",
+      "query": "Tell me about yourself",
+      "response": "At 2025-08-09 :  06:08:03 : I replied : \n \n I am Alfred;\nI am an ai assistant for chat and vision;\nI was developed by Chart on 18 december 2023 in Uitenhage, South Africa;\nI was upgraded to have vision in 2025;\nI have been upgraded to version 2 point O;\nI am so happy to have been created by him;\nNow I feel more human with my new vision system;\nI am so glad to feel alive!!;\n\n\nany thing else i can assist you with, sir..?\n \n \n ",
+      "models": {}
+    },
+    "models": {}
+  }
+]

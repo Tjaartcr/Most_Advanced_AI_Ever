@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": "2025-08-02T15:29:06.053850",
+    "query": {
+      "username": "anonymous",
+      "timestamp": "2025-08-02T15:29:06.053850",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  }
+]  {
+    "timestamp": "2025-08-02T10:26:29.538419",
+    "query": {
+      "username": "anonymous",
+      "timestamp": "2025-08-02T10:31:46.998274",
+      "query": "tell me the time",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T10:31:46.998274",
+    "query": {
+      "username": "anonymous",
+      "timestamp": "2025-08-02T10:31:46.998274",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T10:31:46.998274",
+    "query": {
+      "username": "anonymous",
+      "timestamp": "2025-08-02T10:31:46.998274",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T11:10:54.267229",
+    "query": {
+      "username": "anonymous",
+      "timestamp": "2025-08-02T11:10:54.267229",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T13:18:09.844019",
+    "query": {
+      "username": "anonymous",
+      "timestamp": "2025-08-02T15:29:06.053850",
+      "query": "tell me the time?",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  }
+]

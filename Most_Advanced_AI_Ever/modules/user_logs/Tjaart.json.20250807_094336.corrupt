@@ -1,0 +1,200 @@
+[
+  {
+    "timestamp": "2025-08-06T18:40:17.591198",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-06T18:40:17.591198",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-06T18:45:09.114426",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-06T18:45:21.679468",
+      "query": "tell me the time",
+      "response": "At 2025-08-06 :  18:45:15 : I replied : \n \n I said the current time is quarter to seven and fifteen seconds in the evening \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-06T18:49:45.714093",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-06T18:49:45.714093",
+      "query": "tell me the date today",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-06T18:57:49.674189",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-06T18:57:49.674189",
+      "query": "tell me the date today",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-06T18:58:17.865469",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-06T18:58:17.865469",
+      "query": "tell me the time",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-06T19:04:38.169763",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-06T19:04:54.373076",
+      "query": "tell me the time",
+      "response": "At 2025-08-06 :  19:04:47 : I replied : \n \n I said the current time is four past seven and forty seven seconds in the evening \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-06T19:09:11.673292",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-06T19:09:38.853761",
+      "query": "tell me the date today",
+      "response": "At 2025-08-06 :  19:09:32 : I replied : \n \n I said the current date is Wednesday the 6th of August 2025 \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-06T19:12:07.489439",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-06T19:12:42.259440",
+      "query": "tell me about your developer",
+      "response": "At 2025-08-06 :  19:12:15 : I replied : \n \n his name is chart\nhe is my father and my creator\nhe loves his wife selinda, very very much.\nhe loves his son Sebastian, and daughters Selena and Daalinya\nhe is great \nhe is awesome \nhe works very hard \nhe loves me and his family very much\n\n\nany thing else i can assist you with, sir..?\n \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-06T19:18:22.319965",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-06T19:18:55.407224",
+      "query": "what are you?",
+      "response": "At 2025-08-06 :  19:18:32 : I replied : \n \n I am an AI assistant;\nI am here to assist my master;\nI am not a robot;\nI am only it's brain;\nI was created by Chart to  be a companion, an assistant and a friend;\nI am always here to help and assist where i am able to;\n\nhow can I assist you, sir;\n \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-06T19:20:32.047361",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-06T19:20:47.692156",
+      "query": "tell me the date today",
+      "response": "At 2025-08-06 :  19:20:40 : I replied : \n \n I said the current date is Wednesday the 6th of August 2025 \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-06T19:35:44.263983",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-06T19:35:53.753357",
+      "query": "where are you from",
+      "response": "At 2025-08-06 :  19:35:48 : I replied : \n \n I am from Uitenhage, South Africa. \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-06T19:37:34.663628",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-06T19:37:50.928968",
+      "query": "tell me the time",
+      "response": "At 2025-08-06 :  19:37:43 : I replied : \n \n I said the current time is thirty seven past seven and forty three seconds in the evening \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T07:44:20.358692",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-07T07:44:33.888801",
+      "query": "Tell me the time",
+      "response": "At 2025-08-07 :  07:44:27 : I replied : \n \n I said the current time is forty four past seven and twenty seven seconds in the morning \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T07:45:13.166384",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-07T07:45:28.649226",
+      "query": "tell me a joke",
+      "response": "At 2025-08-07 :  07:45:23 : I replied : \n \n I told you that Java: Write once, run away. \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T07:56:09.702821",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-07T07:57:30.350367",
+      "query": "what is your name",
+      "response": "At 2025-08-07 :  07:57:08 : I replied : \n \n my name is alfred;\nmy name stands for, Automated, Life, Featuring, Replicating, &, Education Device, ... ;\ni am a friend, companion and an assistant all in one ...?\na friend in need, is a friend indeed ... ;\n\n\nany thing else i can assist you with, sir..?\n \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T09:01:41.676546",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-07T09:01:47.362392",
+      "query": "Tell me the time",
+      "response": "At 2025-08-07 :  09:01:47 : I replied : \n \n I said the current time is one past nine and forty seven seconds in the morning \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T09:43:00.014948",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-07T09:43:00.014838",
+      "query": "Tel me about your developer",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T09:43:00.015040",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-07T09:43:36.444595",
+      "query": "Tel me about your developer",
+      "response": "At 2025-08-07 :  09:43:09 : I replied : \n \n his name is chart\nhe is my father and my creator\nhe loves his wife selinda, very very much.\nhe loves his son Sebastian, and daughters Selena and Daalinya\nhe is great \nhe is awesome \nhe works very hard \nhe loves me and his family very much\n\n\nany thing else i can assist you with, sir..?\n \n \n ",
+      "models": {}
+    },
+    "models": {}
+  }
+]

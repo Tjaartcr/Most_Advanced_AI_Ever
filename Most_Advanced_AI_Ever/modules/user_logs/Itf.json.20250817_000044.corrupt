@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": "2025-08-16T23:58:49.542914",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-16T23:58:49.542914",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-16T23:58:49.589781",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-16T23:58:49.542914",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "[ERROR] Model generation failed: must provide a model",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-16T23:58:51.163804",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-17T00:00:44.144250",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "At 2025-08-17 :  00:00:30 : I replied : \n \n Certainly! Here's an example sentence using the noun \"doorbell\" and pronoun \"rings\": \"As I opened the door to greet my visitors, a friendly face appeared on the doorbell.\" \n \n ",
+      "models": {}
+    },
+    "models": {}
+  }
+]

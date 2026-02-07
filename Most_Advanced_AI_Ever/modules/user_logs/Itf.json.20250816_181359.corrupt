@@ -1,0 +1,48 @@
+[
+  {
+    "timestamp": "2025-08-16T18:13:59.190743",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-16T18:13:59.190743",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  }
+]": {}
+  },
+  {
+    "timestamp": "2025-08-16T18:01:29.820749",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-16T18:01:29.820749",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-16T18:01:29.820749",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-16T18:01:29.820749",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "[ERROR] Model generation failed: cannot access local variable 'model_selected' where it is not associated with a value",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-16T18:01:29.820749",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-16T18:13:59.190743",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  }
+]

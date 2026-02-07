@@ -1,0 +1,134 @@
+[
+  {
+    "timestamp": "2025-07-19T10:57:40.806055",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T10:57:58.013133",
+      "query": "what is the time now?",
+      "response": "At 2025-07-19 :  10:57:49 : I replied : \n \n I said the current time is fifty seven past ten and forty nine seconds in the morning \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T10:58:15.654202",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T10:58:29.606481",
+      "query": "tell me the time?",
+      "response": "At 2025-07-19 :  10:58:22 : I replied : \n \n I said the current time is fifty eight past ten and twenty two seconds in the morning \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T10:58:57.949517",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T11:12:25.060971",
+      "query": "tell me what the time is?",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T11:13:11.868630",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T11:13:26.871788",
+      "query": "tell me the time?",
+      "response": "At 2025-07-19 :  11:13:18 : I replied : \n \n I said the current time is thirteen past eleven and eighteen seconds in the morning \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T11:13:57.331220",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T11:14:11.552371",
+      "query": "the time",
+      "response": "At 2025-07-19 :  11:14:03 : I replied : \n \n I said the current time is fourteen past eleven and three seconds in the morning \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T11:14:49.092123",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T11:20:11.619055",
+      "query": "what is the time?",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T11:22:49.757174",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T11:23:10.959050",
+      "query": "what is the time?",
+      "response": "At 2025-07-19 :  11:22:59 : I replied : \n \n I said the current time is twenty two past eleven and fifty nine seconds in the morning \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T11:31:16.738014",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T12:53:50.700969",
+      "query": "what is the time",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T12:54:22.526613",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T12:54:38.791234",
+      "query": "what is the time",
+      "response": "At 2025-07-19 :  12:54:30 : I replied : \n \n I said the current time is fifty four past twelve and thirty seconds in the afternoon \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T12:55:20.060264",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T12:55:36.441129",
+      "query": "tell me the time for now?",
+      "response": "At 2025-07-19 :  12:55:29 : I replied : \n \n I said the current time is fifty five past twelve and twenty nine seconds in the afternoon \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T12:56:31.572557",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T12:56:48.206763",
+      "query": "tell me the time now",
+      "response": "At 2025-07-19 :  12:56:40 : I replied : \n \n I said the current time is fifty six past twelve and forty seconds in the afternoon \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T13:09:15.746405",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T14:17:05.028355",
+      "query": "where are you from",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  }
+]

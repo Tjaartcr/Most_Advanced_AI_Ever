@@ -1,0 +1,90 @@
+[
+  {
+    "timestamp": "2025-08-06T14:54:11.018064",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-06T14:54:11.018064",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-06T14:56:16.219304",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-06T14:56:31.236051",
+      "query": "tell me the date today?",
+      "response": "At 2025-08-06 :  14:56:23 : I replied : \n \n I said the current date is Wednesday the 6th of August 2025 \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-06T15:32:45.845676",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-06T15:32:45.845676",
+      "query": "Tell me the time",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-06T15:34:19.392917",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-06T15:34:19.392365",
+      "query": "tell me the date today?",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-06T15:48:14.727819",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-06T15:48:14.727819",
+      "query": "tell me the date today?",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-06T15:49:02.255761",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-06T15:49:02.255761",
+      "query": "Tell me the time",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-06T15:54:52.935145",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-06T16:03:37.663861",
+      "query": "tell me the date today?",
+      "response": "At 2025-08-06 :  16:03:29 : I replied : \n \n I said the current time is three past four and twenty nine seconds in the afternoon \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-06T16:05:14.422681",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-06T16:05:29.875059",
+      "query": "Tell me a joke",
+      "response": "At 2025-08-06 :  16:05:19 : I replied : \n \n I told you that There are 10 types of people: those who understand trinary, those who don't, and those who have never heard of it. \n \n ",
+      "models": {}
+    },
+    "models": {}
+  }
+]

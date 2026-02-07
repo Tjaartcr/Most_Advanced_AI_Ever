@@ -1,0 +1,13 @@
+[
+  {
+    "timestamp": "2025-08-11T22:48:34.164000",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-11T22:48:34.164000",
+      "query": "Turn on lights",
+      "response": "Embedding database not available.",
+      "models": {}
+    },
+    "models": {}
+  }
+]

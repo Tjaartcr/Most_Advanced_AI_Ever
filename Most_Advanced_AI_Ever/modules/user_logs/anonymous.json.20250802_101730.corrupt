@@ -1,0 +1,13 @@
+[
+  {
+    "timestamp": "2025-08-02T10:17:30.549992",
+    "query": {
+      "username": "anonymous",
+      "timestamp": "2025-08-02T10:17:30.549992",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  }
+]

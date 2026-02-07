@@ -1,0 +1,46 @@
+[
+  {
+    "timestamp": "2025-07-22T23:01:39.942350",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-07-23T07:52:45.737643",
+      "query": "Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-23T07:52:45.737643",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-07-24T15:05:33.411200",
+      "query": "Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-24T15:05:33.411200",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-07-24T15:06:41.760409",
+      "query": "Turn on lights",
+      "response": "At 2025-07-24 :  15:06:33 : I replied : \n \n I said the current time is six past three and thirty three seconds in the afternoon \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-24T15:17:32.977017",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-07-24T15:17:32.977017",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "timestamp": "2025-07-19T10:33:34.024807",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T10:39:13.676733",
+      "query": "tell me the time",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T10:39:44.879615",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T10:46:09.386769",
+      "query": "tell me the time?",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T10:46:37.990095",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T10:46:55.002714",
+      "query": "what is the time?",
+      "response": "At 2025-07-19 :  10:46:46 : I replied : \n \n I said the current time is forty six past ten and forty six seconds in the morning \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T10:48:38.415494",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T10:48:50.835465",
+      "query": "tell me the time?",
+      "response": "At 2025-07-19 :  10:48:43 : I replied : \n \n I said the current time is forty eight past ten and forty three seconds in the morning \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T10:49:15.006118",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T10:49:29.719475",
+      "query": "What  the time",
+      "response": "At 2025-07-19 :  10:49:21 : I replied : \n \n I said the current time is forty nine past ten and twenty one seconds in the morning \n \n ",
+      "models": {}
+    },
+    "models": {}
+  }
+]

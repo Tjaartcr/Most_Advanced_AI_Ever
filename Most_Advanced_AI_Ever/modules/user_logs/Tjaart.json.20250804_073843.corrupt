@@ -1,0 +1,46 @@
+[
+  {
+    "timestamp": "2025-08-03T22:43:33.356161",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-03T22:46:38.534389",
+      "query": "tell the time",
+      "response": "At 2025-08-03 :  22:46:24 : I replied : \n \n I told you that A programmer walks into a bar and orders 1.38 root beers. The bartender informs her it's a root beer float. She says 'Make it a double!' \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-03T22:50:45.532538",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-03T22:50:45.532538",
+      "query": "tell the time",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-03T22:51:43.533301",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-03T22:51:43.533301",
+      "query": "tell the time",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-04T07:28:42.050937",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-04T07:38:43.299181",
+      "query": "tell the time",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  }
+]

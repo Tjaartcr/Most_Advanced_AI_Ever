@@ -1,0 +1,145 @@
+[
+  {
+    "timestamp": "2025-08-02T13:44:46.036079",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T13:51:49.916007",
+      "query": "tell me the time",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T13:51:49.916007",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T13:51:49.916007",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T14:33:27.761920",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T14:33:27.761920",
+      "query": "tell me the time",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T14:35:53.761763",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T14:43:28.785720",
+      "query": "tell me the time",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T14:43:28.785720",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T14:43:28.785720",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T14:43:28.785720",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T14:43:28.785720",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T14:49:01.153176",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T14:49:01.153176",
+      "query": "tell me the time",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T15:31:55.927401",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T15:31:55.927401",
+      "query": "tell me the time",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T15:53:18.030042",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T15:53:18.030042",
+      "query": "tell me the time",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T16:15:56.093813",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T16:15:56.093813",
+      "query": "tell me the time",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T16:25:53.005801",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T17:23:13.319215",
+      "query": "tell me the time",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T17:23:13.319215",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T17:23:13.319215",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T17:28:09.939388",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T17:44:10.693054",
+      "query": "tell me the time",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  }
+]

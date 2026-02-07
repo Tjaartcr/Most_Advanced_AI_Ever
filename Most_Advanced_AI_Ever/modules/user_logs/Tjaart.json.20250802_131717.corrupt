@@ -1,0 +1,90 @@
+[
+  {
+    "timestamp": "2025-08-02T13:06:32.097863",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T13:06:32.097863",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T13:06:32.097863",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T13:06:32.097863",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T13:07:35.406002",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T13:07:35.406002",
+      "query": "the time please",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T13:08:04.797723",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T13:12:44.185179",
+      "query": "tell me the time?",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T13:12:44.185179",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T13:12:44.185179",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T13:12:44.188171",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T13:12:44.188171",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T13:14:16.396220",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T13:17:17.912377",
+      "query": "tell me the time?",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T13:17:17.913602",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-02T13:17:17.913602",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-08-03T15:46:13.548224",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-03T15:46:30.783626",
+      "query": "the time",
+      "response": "At 2025-08-03 :  15:46:23 : I replied : \n \n I said the current time is forty six past three and twenty three seconds in the afternoon \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-03T15:54:31.475732",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-03T15:54:31.475732",
+      "query": "the time",
+      "response": "",
+      "models": {
+        "thinkbot": "deepseek-r1:8b",
+        "chatbot": "llama3-chatqa:8b",
+        "vision": "llava",
+        "coding": "deepseek-r1:8b"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-03T15:55:03.467641",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-03T15:55:03.467641",
+      "query": "the time",
+      "response": "",
+      "models": {
+        "thinkbot": "deepseek-r1:8b",
+        "chatbot": "llama3-chatqa:8b",
+        "vision": "llava",
+        "coding": "deepseek-r1:8b"
+      }
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-03T15:59:40.539947",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-03T16:05:44.133798",
+      "query": "the time",
+      "response": "System booted",
+      "models": {
+        "thinkbot": "deepseek-r1:8b",
+        "chatbot": "llama3-chatqa:8b",
+        "vision": "llava",
+        "coding": "deepseek-r1:8b"
+      }
+    },
+    "models": {}
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-08-14T23:19:42.894582",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-14T23:19:42.892586",
+      "query": "Turn on lights",
+      "response": "Error processing query: cannot access local variable 'collection' where it is not associated with a value"
+    },
+    "models": {}
+  }
+]

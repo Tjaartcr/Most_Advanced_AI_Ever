@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-08-07T09:44:26.350938",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-07T09:44:26.350938",
+      "query": "Tell me the date today",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-07T09:44:26.350938",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-08-07T09:44:37.649579",
+      "query": "Tell me the date today",
+      "response": "At 2025-08-07 :  09:44:37 : I replied : \n \n I said the current date is Thursday the 7th of August 2025 \n \n ",
+      "models": {}
+    },
+    "models": {}
+  }
+]

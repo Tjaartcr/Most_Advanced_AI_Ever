@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": "2025-07-19T10:13:51.828918",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T10:14:07.679541",
+      "query": "warra the time?",
+      "response": "At 2025-07-19 :  10:13:59 : I replied : \n \n I said the current time is thirteen past ten and fifty nine seconds in the morning \n \n ",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T10:15:18.987040",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T10:15:18.987040",
+      "query": "the time",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-07-19T10:15:32.467220",
+    "query": {
+      "username": "Tjaart",
+      "timestamp": "2025-07-19T10:31:04.811384",
+      "query": "what is  the time?",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  }
+]

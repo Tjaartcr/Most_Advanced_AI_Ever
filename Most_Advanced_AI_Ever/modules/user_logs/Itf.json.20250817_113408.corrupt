@@ -1,0 +1,46 @@
+[
+  {
+    "timestamp": "2025-08-17T11:34:08.171339",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-17T11:34:08.171339",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  }
+]  {
+    "timestamp": "2025-08-17T11:10:52.477264",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-17T11:10:52.477264",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "[ERROR] Model generation failed: must provide a model",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-17T11:10:54.959746",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-17T11:34:08.249472",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-17T11:34:08.171339",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-17T11:34:08.171339",
+      "query": "Respond to this prompt: Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  }
+]

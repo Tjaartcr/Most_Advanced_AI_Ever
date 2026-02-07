@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "2025-08-11T22:03:32.088712",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-11T22:07:38.594541",
+      "query": "Turn on lights",
+      "emb_resp": "Embedding database not available.",
+      "models": {},
+      "response": "System booted"
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-11T22:07:38.594541",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-11T22:07:38.594541",
+      "query": "Turn on lights",
+      "emb_resp": "Embedding database not available.",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-11T22:07:38.594541",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-11T22:15:24.523390",
+      "query": "Turn on lights",
+      "emb_resp": "Embedding database not available.",
+      "models": {},
+      "response": "System booted"
+    },
+    "models": {}
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "timestamp": "2025-08-02T19:14:13.461582",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-02T19:14:13.461582",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  }
+]  {
+    "timestamp": "2025-08-02T19:03:11.463186",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-02T19:08:35.991389",
+      "query": "tell me the time",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T19:08:35.991389",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-02T19:08:35.991389",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T19:10:04.175410",
+    "query": {
+      "username": "Celinda",
+      "timestamp": "2025-08-02T19:14:13.461582",
+      "query": "tell me the time",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  }
+]

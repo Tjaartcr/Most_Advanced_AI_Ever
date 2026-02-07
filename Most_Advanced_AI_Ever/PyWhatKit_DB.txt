@@ -1,0 +1,30 @@
+Date: 23/6/2025
+Time: 21:16
+Phone Number: +27633122420
+Message: Hello from Python!
+--------------------
+Date: 23/6/2025
+Time: 21:20
+Phone Number: +27633122420
+Message: Hello from Python!
+--------------------
+Date: 23/6/2025
+Time: 21:26
+Phone Number: +633122420
+Message: Hello from Alfred!
+--------------------
+Date: 23/6/2025
+Time: 21:35
+Phone Number: +633122420
+Message: Hello from Alfred!
+--------------------
+Date: 23/6/2025
+Time: 21:38
+Phone Number: +27633122420
+Message: Hello from Python!
+--------------------
+Date: 23/6/2025
+Time: 21:40
+Phone Number: +27633122420
+Message: Hello from Python!
+--------------------

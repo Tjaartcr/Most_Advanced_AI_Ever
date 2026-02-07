@@ -1,0 +1,79 @@
+[
+  {
+    "timestamp": "2025-08-10T14:30:37.247640",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-10T14:30:37.247640",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-10T14:30:37.248635",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-10T14:41:45.158209",
+      "query": "Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-10T14:41:45.157213",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-10T14:41:45.157213",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-10T14:41:45.157213",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-10T14:46:45.061852",
+      "query": "Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-10T14:46:45.028806",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-10T14:50:48.129876",
+      "query": "Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-10T14:50:48.129876",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-10T16:42:22.997841",
+      "query": "Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-10T16:42:22.997841",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-10T16:51:11.674714",
+      "query": "Turn on lights",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  }
+]

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Login</title>
+</head>
+<body>
+  <h2>Login</h2>
+  <input id="user" placeholder="Username" />
+  <input id="pass" placeholder="Password" type="password" />
+  <button onclick="login()">Login</button>
+  <button onclick="signup()">Sign Up</button>
+  <div id="message"></div>
+
+  <script>
+    async function login() {
+      const res = await fetch("/login", {
+        method: "POST",
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({
+          username: document.getElementById("user").value,
+          password: document.getElementById("pass").value
+        })
+      });
+      const data = await res.json();
+      document.getElementById("message").innerText = data.message;
+      if (data.success) {
+        localStorage.setItem("user", document.getElementById("user").value);
+        window.location.href = "/index.html";
+      }
+    }
+
+    async function signup() {
+      const res = await fetch("/signup", {
+        method: "POST",
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({
+          username: document.getElementById("user").value,
+          password: document.getElementById("pass").value
+        })
+      });
+      const data = await res.json();
+      document.getElementById("message").innerText = data.message;
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+[
+  {
+    "username": "Celinda",
+    "timestamp": "2025-09-22T01:05:02.525542",
+    "query": "write me a code for face detection in python?",
+    "response": null,
+    "models": {
+      "thinkbot": "deepseek-r1:1.5b",
+      "chatbot": "tinyllama",
+      "vision": "moondream",
+      "coding": "codegemma:2b-code"
+    }
+  },
+  {
+    "username": "Celinda",
+    "timestamp": "2025-09-22T01:05:12.082698",
+    "query": "",
+    "response": "2025-09-22 : 01:05:12 : write me a code for face detection in python? : Celinda",
+    "models": {
+      "thinkbot": "llama2"
+    }
+  },
+  {
+    "username": "Celinda",
+    "timestamp": "2025-09-22T01:05:34.964716",
+    "query": "",
+    "response": "At 2025-09-22 :  01:05:34 : You Asked: 2025-09-22 : 01:05:12 : write me a code for face detection in python? : Celinda ",
+    "models": {
+      "thinkbot": "llama2"
+    }
+  },
+  {
+    "username": "Celinda",
+    "timestamp": "2025-09-22T01:05:34.965713",
+    "query": "",
+    "response": "At 2025-09-22 :  01:05:34 : You Asked: 2025-09-22 : 01:05:12 : write me a code for face detection in python? : Celinda ",
+    "models": {
+      "thinkbot": "llama2"
+    }
+  }
+]

@@ -1,0 +1,87 @@
+// model_selector.js (in /src folder)
+
+const MODEL_NAMES = [
+  // You must manually copy model names from the Python list or fetch them via backend.
+  "deepseek-r1:8b",
+  "qwen2.5:3b",
+  "llama2:7b",
+  "zongwei/gemma3-translator:4b",
+  "lauchacarro/qwen2.5-translator",
+  "0xroyce/NazareAI-Python-Programmer-3B",
+  "llama3-chatqa:8b",
+  "brxce/stable-diffusion-prompt-generator",
+  "granite3.1-moe:1b-instruct-q2_K",
+  "granite3.3:2b",
+  "qwen2.5-coder:1.5b",
+  "qwen2.5-coder:3b",
+  "granite3.2-vision",
+  "Hudson/pythia-instruct:70m",
+  "yi-coder:1.5b",
+  "deepseek-r1:1.5b",
+  "llama3.2:1b",
+  "nomic-embed-text",
+  "mxbai-embed-large",
+  "gemma:2b",
+  "llava-phi3",
+  "codegemma:2b-code",
+  "moondream",
+  "llava",
+  "deepseek-coder",
+  "tinyllama",
+  "mistral",
+  "stablelm2",
+  "qwen:1.8b",
+  "starcoder2",
+  "dolphin-phi",
+  "phi",
+  "llama2"
+];
+
+const EXCLUSIONS = {
+  thinkbot: [
+        "0xroyce/NazareAI-Python-Programmer-3B", "deepseek-r1", "code", "llava", "moondream", "vision", "-embed-", "chatqa", 
+        "pythia", "stable"
+  ],
+  chatbot: [
+        "0xroyce", "deepseek-r1", "codegemma", "deepseek-coder", "deepseek-r1:8b", "dolphin-phi", "gemma",
+        "granite3.1-moe", "granite3.2-vision", "granite3.3", "llama2", 
+        "llama3.2", "llava", "llava-phi3", "mistral", "moondream", "mxbai-embed-large",
+        "nomic-embed-text", "qwen2.5-coder", "stablelm2", "starcoder2", "yi-coder", 
+        "pythia", "stable"
+  ],
+  vision: [
+        "0xroyce", "phi", "qwen", "stablelm2", "mistral", "granite3.3", "deepseek-r1", "dolphin-phi", "gemma",
+        "granite3.1-moe", "code", "-embed-", "llama", 
+        "pythia"
+  ],
+  coding: [
+        "llava", "granite3.2-vision", "moondream", "phi", "qwen", "granite3.3", "dolphin-phi",
+        "gemma", "granite3.1-moe", "-embed-", "llama", "chatqa", "deepseek-r1", "stable"
+  ],
+  rag: [ 
+    "0xroyce", "deepseek", "llama", "qwen", "gemma", "granite", "code", "llava",
+    "phi", "starcoder", "stablelm", "mistral", "moondream", "chatqa", 
+    "pythia", "stable", "0xroyce", "phi", "qwen", "stablelm2", "mistral", "granite3.3", "deepseek-r1", "dolphin-phi", "gemma", "granite3.1-moe", "code", "llama", "pythia", "0xroyce", "deepseek-r1", "codegemma", "deepseek-coder", "deepseek-r1:8b", "dolphin-phi", "gemma", "granite3.1-moe", "granite3.2-vision", "granite3.3", "llama2", "llama3.2", "llava", "llava-phi3", "mistral", "moondream", "qwen2.5-coder:3b", "qwen2.5-coder", "stablelm2", "starcoder2", "yi-coder", "pythia", "stable"
+    ]
+};
+
+const ADDITIONS = {
+  thinkbot: ["deepseek-r1:8b", "deepseek-r1:1.5b"],
+  chatbot : ["llama3-chatqa:8b", "zongwei/gemma3-translator:4b"],
+  vision  : ["llava-phi3"],
+  coding  : ["deepseek-r1:8b", "granite3.1-moe:1b-instruct-q2_K", "codegemma:2b-code", "qwen2.5-coder:3b", "llama2:7b"],
+  rag     : [""]
+};
+
+export function get_models_by_type(modelType) {
+  if (!EXCLUSIONS.hasOwnProperty(modelType)) {
+    throw new Error(`Invalid model type: ${modelType}. Must be one of ${Object.keys(EXCLUSIONS).join(", ")}`);
+  }
+
+  const excludedWords = EXCLUSIONS[modelType];
+  let filtered = MODEL_NAMES.filter((model) => {
+    return !excludedWords.some((word) => model.toLowerCase().includes(word));
+  });
+
+  return [...filtered, ...(ADDITIONS[modelType] || [])];
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-08-02T10:23:25.669973",
+    "query": {
+      "username": "anonymous",
+      "timestamp": "2025-08-02T10:23:25.669973",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-02T10:26:29.538419",
+    "query": {
+      "username": "anonymous",
+      "timestamp": "2025-08-02T10:31:46.998274",
+      "query": "tell me the time",
+      "response": "System booted",
+      "models": {}
+    },
+    "models": {}
+  }
+]

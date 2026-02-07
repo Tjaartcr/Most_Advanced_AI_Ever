@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-08-05T13:31:36.663112",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-05T13:31:36.663112",
+      "query": "Turn on lights",
+      "response": "",
+      "models": {}
+    },
+    "models": {}
+  },
+  {
+    "timestamp": "2025-08-05T13:31:36.663112",
+    "query": {
+      "username": "Itf",
+      "timestamp": "2025-08-05T13:33:14.285262",
+      "query": "Turn on lights",
+      "response": "At 2025-08-05 :  13:33:05 : I replied : \n \n I said the current date is Tuesday the 5th of August 2025 \n \n ",
+      "models": {}
+    },
+    "models": {}
+  }
+]
