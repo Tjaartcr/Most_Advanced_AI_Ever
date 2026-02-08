@@ -29,7 +29,7 @@
     Easy dev mode and production recommendations
 
 5. Architecture / file map
-    backend.py — socket server, session tracking (session_users[sid]), Whisper integration, log & emit responses, routes for uploads and device endpoints.
+    backend.py — socket server, session tracking (session_users[sid]), Whisper integration, log & emit responses, routes for uploads and       device endpoints.
     GUI.py — tkinter desktop GUI, stores current_user, emits gui_event, manages last_query.
     App.jsx — React WebUI: model selection, query history, and WebSocket/Socket.IO client.
     query_logger.py — append-safe JSON per-user logs with partial recovery for corrupt files.
@@ -75,7 +75,6 @@
     Device endpoints (HTTP): /macro/*, /record/*, /pickup/*, /telemetry for ESP8266 integration.
     Example flow: GUI/WebUI sends gui_event -> backend.py processes and logs -> emits resp back to client SID.
 
-Note: Replace event names with concrete values used in your code if they differ.
 
 11. Development notes
     Tests: add unit tests for query_logger, translation wrappers, and backend event handlers.
